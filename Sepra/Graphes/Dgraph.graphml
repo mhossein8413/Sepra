@@ -1,0 +1,6013 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="distance" attr.type="long"/>
+<key id="d5" for="edge" attr.name="start" attr.type="long"/>
+<key id="d4" for="edge" attr.name="interval" attr.type="long"/>
+<key id="d3" for="edge" attr.name="time" attr.type="double"/>
+<key id="d2" for="edge" attr.name="cost" attr.type="long"/>
+<key id="d1" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d0" for="edge" attr.name="mode" attr.type="string"/>
+<graph edgedefault="directed"><node id="bus_11"/>
+<node id="bus_12"/>
+<node id="bus_13"/>
+<node id="bus_14"/>
+<node id="bus_15"/>
+<node id="bus_16"/>
+<node id="bus_21"/>
+<node id="bus_22"/>
+<node id="bus_23"/>
+<node id="bus_24"/>
+<node id="bus_25"/>
+<node id="bus_31"/>
+<node id="bus_32"/>
+<node id="bus_33"/>
+<node id="bus_34"/>
+<node id="bus_35"/>
+<node id="bus_36"/>
+<node id="bus_37"/>
+<node id="bus_41"/>
+<node id="bus_42"/>
+<node id="bus_43"/>
+<node id="bus_44"/>
+<node id="bus_45"/>
+<node id="bus_46"/>
+<node id="bus_47"/>
+<node id="bus_48"/>
+<node id="bus_49"/>
+<node id="bus_51"/>
+<node id="bus_52"/>
+<node id="bus_53"/>
+<node id="bus_54"/>
+<node id="bus_55"/>
+<node id="bus_56"/>
+<node id="bus_57"/>
+<node id="bus_58"/>
+<node id="bus_59"/>
+<node id="bus_59a"/>
+<node id="bus_59b"/>
+<node id="bus_61"/>
+<node id="bus_62"/>
+<node id="bus_63"/>
+<node id="bus_64"/>
+<node id="bus_65"/>
+<node id="bus_66"/>
+<node id="bus_67"/>
+<node id="bus_71"/>
+<node id="bus_72"/>
+<node id="bus_73"/>
+<node id="bus_74"/>
+<node id="bus_75"/>
+<node id="bus_76"/>
+<node id="bus_77"/>
+<node id="bus_78"/>
+<node id="bus_79"/>
+<node id="bus_79a"/>
+<node id="bus_79b"/>
+<node id="bus_81"/>
+<node id="bus_82"/>
+<node id="bus_83"/>
+<node id="bus_84"/>
+<node id="bus_85"/>
+<node id="bus_86"/>
+<node id="bus_87"/>
+<node id="bus_88"/>
+<node id="bus_89"/>
+<node id="bus_91"/>
+<node id="bus_92"/>
+<node id="bus_93"/>
+<node id="taxi_s1"/>
+<node id="taxi_e1"/>
+<node id="taxi_s2"/>
+<node id="taxi_e2"/>
+<node id="taxi_s3"/>
+<node id="taxi_e3"/>
+<node id="taxi_s4"/>
+<node id="taxi_e4"/>
+<node id="taxi_s5"/>
+<node id="taxi_e5"/>
+<node id="taxi_s6"/>
+<node id="taxi_e6"/>
+<node id="taxi_s7"/>
+<node id="taxi_e7"/>
+<node id="taxi_s8"/>
+<node id="taxi_e8"/>
+<node id="1333526368"/>
+<node id="4983399805"/>
+<node id="4983399778"/>
+<node id="4983399750"/>
+<node id="4983399730"/>
+<node id="905384162"/>
+<node id="1333526364"/>
+<node id="12317853864"/>
+<node id="4362382316"/>
+<node id="1349015726"/>
+<node id="6550734092"/>
+<node id="4450022882"/>
+<node id="4868783266"/>
+<node id="4966875685"/>
+<node id="6315759957"/>
+<node id="4868783016"/>
+<node id="4966382802"/>
+<node id="4450022875"/>
+<node id="4982795228"/>
+<node id="13146832536"/>
+<node id="4982794897"/>
+<node id="4982794878"/>
+<node id="5061185529"/>
+<node id="5061185487"/>
+<node id="5061185444"/>
+<node id="5061185197"/>
+<node id="5061185157"/>
+<node id="5061185140"/>
+<node id="248884161"/>
+<node id="1366338935"/>
+<node id="1366338805"/>
+<node id="10682358785"/>
+<node id="1364650732"/>
+<node id="248884159"/>
+<node id="425690376"/>
+<node id="1366776017"/>
+<node id="6396053802"/>
+<node id="6396053808"/>
+<node id="2509060293"/>
+<node id="1366786550"/>
+<node id="425690354"/>
+<node id="1366796451"/>
+<node id="1366796464"/>
+<node id="1409371974"/>
+<edge source="bus_11" target="bus_12">
+  <data key="d0">bus</data>
+  <data key="d1">688.7893812832848</data>
+  <data key="d2">500</data>
+  <data key="d3">61.991044315495635</data>
+  <data key="d4">15</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_11" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1287.13301914572</data>
+  <data key="d2">0</data>
+  <data key="d3">919.3807279612287</data>
+</edge>
+<edge source="bus_11" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">292.1488882934703</data>
+  <data key="d2">0</data>
+  <data key="d3">208.67777735247878</data>
+</edge>
+<edge source="bus_11" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1394.9422914856939</data>
+  <data key="d2">0</data>
+  <data key="d3">996.38735106121</data>
+</edge>
+<edge source="bus_11" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">176.65528750223518</data>
+  <data key="d2">0</data>
+  <data key="d3">126.18234821588229</data>
+</edge>
+<edge source="bus_11" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">124.17328184849491</data>
+  <data key="d2">0</data>
+  <data key="d3">88.69520132035352</data>
+</edge>
+<edge source="bus_11" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">119.64671648166346</data>
+  <data key="d2">0</data>
+  <data key="d3">85.46194034404533</data>
+</edge>
+<edge source="bus_11" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">207.33038699929529</data>
+  <data key="d2">0</data>
+  <data key="d3">148.0931335709252</data>
+</edge>
+<edge source="bus_11" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">207.33038699929529</data>
+  <data key="d2">0</data>
+  <data key="d3">148.0931335709252</data>
+</edge>
+<edge source="bus_12" target="bus_11">
+  <data key="d0">bus</data>
+  <data key="d1">688.7893812832848</data>
+  <data key="d2">500</data>
+  <data key="d3">61.991044315495635</data>
+  <data key="d4">15</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_12" target="bus_13">
+  <data key="d0">bus</data>
+  <data key="d1">598.4940326781038</data>
+  <data key="d2">500</data>
+  <data key="d3">53.86446294102935</data>
+  <data key="d4">15</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_12" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1166.808950277639</data>
+  <data key="d2">0</data>
+  <data key="d3">833.4349644840279</data>
+</edge>
+<edge source="bus_12" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">974.2936800101619</data>
+  <data key="d2">0</data>
+  <data key="d3">695.9240571501157</data>
+</edge>
+<edge source="bus_12" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">1155.4551105356795</data>
+  <data key="d2">0</data>
+  <data key="d3">825.3250789540568</data>
+</edge>
+<edge source="bus_12" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">1193.78326564075</data>
+  <data key="d2">0</data>
+  <data key="d3">852.7023326005358</data>
+</edge>
+<edge source="bus_12" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1196.1475838081835</data>
+  <data key="d2">0</data>
+  <data key="d3">854.3911312915598</data>
+</edge>
+<edge source="bus_12" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1196.1475838081835</data>
+  <data key="d2">0</data>
+  <data key="d3">854.3911312915598</data>
+</edge>
+<edge source="bus_12" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">1011.8612083768</data>
+  <data key="d2">0</data>
+  <data key="d3">722.7580059834287</data>
+</edge>
+<edge source="bus_12" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">865.44466878552</data>
+  <data key="d2">0</data>
+  <data key="d3">618.1747634182286</data>
+</edge>
+<edge source="bus_12" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">812.9626631317795</data>
+  <data key="d2">0</data>
+  <data key="d3">580.6876165226997</data>
+</edge>
+<edge source="bus_12" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">808.4360977649483</data>
+  <data key="d2">0</data>
+  <data key="d3">577.4543555463916</data>
+</edge>
+<edge source="bus_12" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1392.6926990569298</data>
+  <data key="d2">0</data>
+  <data key="d3">994.7804993263785</data>
+</edge>
+<edge source="bus_12" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">895.3657097773672</data>
+  <data key="d2">0</data>
+  <data key="d3">639.5469355552623</data>
+</edge>
+<edge source="bus_12" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">895.3657097773672</data>
+  <data key="d2">0</data>
+  <data key="d3">639.5469355552623</data>
+</edge>
+<edge source="bus_13" target="bus_12">
+  <data key="d0">bus</data>
+  <data key="d1">598.4940326781038</data>
+  <data key="d2">500</data>
+  <data key="d3">53.86446294102935</data>
+  <data key="d4">15</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_13" target="bus_14">
+  <data key="d0">bus</data>
+  <data key="d1">593.010390377185</data>
+  <data key="d2">500</data>
+  <data key="d3">53.37093513394665</data>
+  <data key="d4">15</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_13" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">1287.13301914572</data>
+  <data key="d2">0</data>
+  <data key="d3">919.3807279612287</data>
+</edge>
+<edge source="bus_13" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1260.2952343552058</data>
+  <data key="d2">0</data>
+  <data key="d3">900.2108816822899</data>
+</edge>
+<edge source="bus_13" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1183.4737297155807</data>
+  <data key="d2">0</data>
+  <data key="d3">845.338378368272</data>
+</edge>
+<edge source="bus_13" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1411.3389313768607</data>
+  <data key="d2">0</data>
+  <data key="d3">1008.0992366977578</data>
+</edge>
+<edge source="bus_13" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">602.3790193481839</data>
+  <data key="d2">0</data>
+  <data key="d3">430.27072810584565</data>
+</edge>
+<edge source="bus_13" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">616.383134641412</data>
+  <data key="d2">0</data>
+  <data key="d3">440.2736676010086</data>
+</edge>
+<edge source="bus_13" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">867.2486214960226</data>
+  <data key="d2">0</data>
+  <data key="d3">619.4633010685876</data>
+</edge>
+<edge source="bus_13" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">1277.560597308261</data>
+  <data key="d2">0</data>
+  <data key="d3">912.5432837916152</data>
+</edge>
+<edge source="bus_13" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1285.7065281919129</data>
+  <data key="d2">0</data>
+  <data key="d3">918.3618058513664</data>
+</edge>
+<edge source="bus_13" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">867.2486214960226</data>
+  <data key="d2">0</data>
+  <data key="d3">619.4633010685876</data>
+</edge>
+<edge source="bus_13" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">448.3041758836604</data>
+  <data key="d2">0</data>
+  <data key="d3">320.21726848832884</data>
+</edge>
+<edge source="bus_13" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">1463.7883066479553</data>
+  <data key="d2">0</data>
+  <data key="d3">1045.563076177111</data>
+</edge>
+<edge source="bus_13" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">1397.7777631928466</data>
+  <data key="d2">0</data>
+  <data key="d3">998.4126879948905</data>
+</edge>
+<edge source="bus_13" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1130.1458614736127</data>
+  <data key="d2">0</data>
+  <data key="d3">807.2470439097234</data>
+</edge>
+<edge source="bus_13" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">1406.7797356273836</data>
+  <data key="d2">0</data>
+  <data key="d3">1004.8426683052741</data>
+</edge>
+<edge source="bus_13" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">989.7857564493131</data>
+  <data key="d2">0</data>
+  <data key="d3">706.9898260352237</data>
+</edge>
+<edge source="bus_13" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">1477.457131546891</data>
+  <data key="d2">0</data>
+  <data key="d3">1055.3265225334937</data>
+</edge>
+<edge source="bus_13" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">1477.457131546891</data>
+  <data key="d2">0</data>
+  <data key="d3">1055.3265225334937</data>
+</edge>
+<edge source="bus_14" target="bus_13">
+  <data key="d0">bus</data>
+  <data key="d1">593.010390377185</data>
+  <data key="d2">500</data>
+  <data key="d3">53.37093513394665</data>
+  <data key="d4">15</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_14" target="bus_15">
+  <data key="d0">bus</data>
+  <data key="d1">667.2848439780208</data>
+  <data key="d2">500</data>
+  <data key="d3">60.055635958021874</data>
+  <data key="d4">15</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_14" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1166.808950277639</data>
+  <data key="d2">0</data>
+  <data key="d3">833.4349644840279</data>
+</edge>
+<edge source="bus_14" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1448.9927496043513</data>
+  <data key="d2">0</data>
+  <data key="d3">1034.9948211459653</data>
+</edge>
+<edge source="bus_14" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">590.4633393383955</data>
+  <data key="d2">0</data>
+  <data key="d3">421.75952809885393</data>
+</edge>
+<edge source="bus_14" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1180.7965597446926</data>
+  <data key="d2">0</data>
+  <data key="d3">843.4261141033519</data>
+</edge>
+<edge source="bus_14" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">1370.2864182899634</data>
+  <data key="d2">0</data>
+  <data key="d3">978.7760130642597</data>
+</edge>
+<edge source="bus_14" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1125.7376857626864</data>
+  <data key="d2">0</data>
+  <data key="d3">804.0983469733475</data>
+</edge>
+<edge source="bus_14" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">898.385684267195</data>
+  <data key="d2">0</data>
+  <data key="d3">641.7040601908536</data>
+</edge>
+<edge source="bus_14" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">89.42577223851839</data>
+  <data key="d2">0</data>
+  <data key="d3">63.87555159894171</data>
+</edge>
+<edge source="bus_14" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">136.63169847771576</data>
+  <data key="d2">0</data>
+  <data key="d3">97.59407034122555</data>
+</edge>
+<edge source="bus_14" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">583.5492171093639</data>
+  <data key="d2">0</data>
+  <data key="d3">416.8208693638314</data>
+</edge>
+<edge source="bus_14" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">1036.891419263252</data>
+  <data key="d2">0</data>
+  <data key="d3">740.63672804518</data>
+</edge>
+<edge source="bus_14" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1035.7961787941654</data>
+  <data key="d2">0</data>
+  <data key="d3">739.8544134244039</data>
+</edge>
+<edge source="bus_14" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">583.5492171093639</data>
+  <data key="d2">0</data>
+  <data key="d3">416.8208693638314</data>
+</edge>
+<edge source="bus_14" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">155.8252085263942</data>
+  <data key="d2">0</data>
+  <data key="d3">111.30372037599585</data>
+</edge>
+<edge source="bus_14" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">1442.650142952867</data>
+  <data key="d2">0</data>
+  <data key="d3">1030.4643878234765</data>
+</edge>
+<edge source="bus_14" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1487.4153665004446</data>
+  <data key="d2">0</data>
+  <data key="d3">1062.4395475003178</data>
+</edge>
+<edge source="bus_14" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">537.1354710964276</data>
+  <data key="d2">0</data>
+  <data key="d3">383.6681936403055</data>
+</edge>
+<edge source="bus_14" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">761.6060688716368</data>
+  <data key="d2">0</data>
+  <data key="d3">544.004334908312</data>
+</edge>
+<edge source="bus_15" target="bus_14">
+  <data key="d0">bus</data>
+  <data key="d1">667.2848439780208</data>
+  <data key="d2">500</data>
+  <data key="d3">60.055635958021874</data>
+  <data key="d4">15</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_15" target="bus_16">
+  <data key="d0">bus</data>
+  <data key="d1">783.0382678679599</data>
+  <data key="d2">500</data>
+  <data key="d3">70.4734441081164</data>
+  <data key="d4">15</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_15" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1260.2952343552058</data>
+  <data key="d2">0</data>
+  <data key="d3">900.2108816822899</data>
+</edge>
+<edge source="bus_15" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">1111.8317198190816</data>
+  <data key="d2">0</data>
+  <data key="d3">794.1655141564869</data>
+</edge>
+<edge source="bus_15" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">1111.8317198190816</data>
+  <data key="d2">0</data>
+  <data key="d3">794.1655141564869</data>
+</edge>
+<edge source="bus_15" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">240.7811481107134</data>
+  <data key="d2">0</data>
+  <data key="d3">171.9865343647953</data>
+</edge>
+<edge source="bus_15" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">807.7416845249517</data>
+  <data key="d2">0</data>
+  <data key="d3">576.9583460892512</data>
+</edge>
+<edge source="bus_15" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">1415.4455596696725</data>
+  <data key="d2">0</data>
+  <data key="d3">1011.0325426211947</data>
+</edge>
+<edge source="bus_15" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1322.5160272925937</data>
+  <data key="d2">0</data>
+  <data key="d3">944.6543052089955</data>
+</edge>
+<edge source="bus_15" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">746.2860224477977</data>
+  <data key="d2">0</data>
+  <data key="d3">533.0614446055698</data>
+</edge>
+<edge source="bus_15" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">803.9165424557366</data>
+  <data key="d2">0</data>
+  <data key="d3">574.2261017540976</data>
+</edge>
+<edge source="bus_15" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1250.834061087385</data>
+  <data key="d2">0</data>
+  <data key="d3">893.4529007767036</data>
+</edge>
+<edge source="bus_15" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1250.834061087385</data>
+  <data key="d2">0</data>
+  <data key="d3">893.4529007767036</data>
+</edge>
+<edge source="bus_15" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">822.2889334157624</data>
+  <data key="d2">0</data>
+  <data key="d3">587.349238154116</data>
+</edge>
+<edge source="bus_15" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">794.8805811757385</data>
+  <data key="d2">0</data>
+  <data key="d3">567.7718436969561</data>
+</edge>
+<edge source="bus_15" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">839.645804723316</data>
+  <data key="d2">0</data>
+  <data key="d3">599.7470033737972</data>
+</edge>
+<edge source="bus_15" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">946.9081676149677</data>
+  <data key="d2">0</data>
+  <data key="d3">676.3629768678342</data>
+</edge>
+<edge source="bus_15" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">941.9285624362333</data>
+  <data key="d2">0</data>
+  <data key="d3">672.806116025881</data>
+</edge>
+<edge source="bus_15" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">204.44648639680702</data>
+  <data key="d2">0</data>
+  <data key="d3">146.03320456914787</data>
+</edge>
+<edge source="bus_15" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1208.5800131953988</data>
+  <data key="d2">0</data>
+  <data key="d3">863.2714379967135</data>
+</edge>
+<edge source="bus_16" target="bus_15">
+  <data key="d0">bus</data>
+  <data key="d1">783.0382678679599</data>
+  <data key="d2">500</data>
+  <data key="d3">70.4734441081164</data>
+  <data key="d4">15</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_16" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1448.9927496043513</data>
+  <data key="d2">0</data>
+  <data key="d3">1034.9948211459653</data>
+</edge>
+<edge source="bus_16" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">366.61785633727203</data>
+  <data key="d2">0</data>
+  <data key="d3">261.86989738376576</data>
+</edge>
+<edge source="bus_16" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">822.9069011297312</data>
+  <data key="d2">0</data>
+  <data key="d3">587.7906436640937</data>
+</edge>
+<edge source="bus_16" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">1194.7205333590725</data>
+  <data key="d2">0</data>
+  <data key="d3">853.3718095421947</data>
+</edge>
+<edge source="bus_16" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1496.9756756526433</data>
+  <data key="d2">0</data>
+  <data key="d3">1069.268339751888</data>
+</edge>
+<edge source="bus_16" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">366.61785633727203</data>
+  <data key="d2">0</data>
+  <data key="d3">261.86989738376576</data>
+</edge>
+<edge source="bus_16" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">822.9069011297312</data>
+  <data key="d2">0</data>
+  <data key="d3">587.7906436640937</data>
+</edge>
+<edge source="bus_16" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">1194.7205333590725</data>
+  <data key="d2">0</data>
+  <data key="d3">853.3718095421947</data>
+</edge>
+<edge source="bus_16" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1496.9756756526433</data>
+  <data key="d2">0</data>
+  <data key="d3">1069.268339751888</data>
+</edge>
+<edge source="bus_16" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1023.8194159786733</data>
+  <data key="d2">0</data>
+  <data key="d3">731.2995828419096</data>
+</edge>
+<edge source="bus_16" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1147.839793240723</data>
+  <data key="d2">0</data>
+  <data key="d3">819.8855666005165</data>
+</edge>
+<edge source="bus_16" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">224.9656137217001</data>
+  <data key="d2">0</data>
+  <data key="d3">160.68972408692866</data>
+</edge>
+<edge source="bus_16" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">227.40688241151747</data>
+  <data key="d2">0</data>
+  <data key="d3">162.4334874367982</data>
+</edge>
+<edge source="bus_16" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">163.86989974700782</data>
+  <data key="d2">0</data>
+  <data key="d3">117.04992839071988</data>
+</edge>
+<edge source="bus_16" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">196.71469895442357</data>
+  <data key="d2">0</data>
+  <data key="d3">140.5104992531597</data>
+</edge>
+<edge source="bus_16" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">987.4847542647672</data>
+  <data key="d2">0</data>
+  <data key="d3">705.3462530462623</data>
+</edge>
+<edge source="bus_21" target="bus_22">
+  <data key="d0">bus</data>
+  <data key="d1">1499.7548841196144</data>
+  <data key="d2">500</data>
+  <data key="d3">134.9779395707653</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_21" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1273.1788310323652</data>
+  <data key="d2">0</data>
+  <data key="d3">909.4134507374038</data>
+</edge>
+<edge source="bus_21" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d1">907.9260554720004</data>
+  <data key="d2">0</data>
+  <data key="d3">648.5186110514289</data>
+</edge>
+<edge source="bus_21" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1273.1788310323652</data>
+  <data key="d2">0</data>
+  <data key="d3">909.4134507374038</data>
+</edge>
+<edge source="bus_21" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d1">907.9260554720004</data>
+  <data key="d2">0</data>
+  <data key="d3">648.5186110514289</data>
+</edge>
+<edge source="bus_22" target="bus_21">
+  <data key="d0">bus</data>
+  <data key="d1">1499.7548841196144</data>
+  <data key="d2">500</data>
+  <data key="d3">134.9779395707653</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_22" target="bus_23">
+  <data key="d0">bus</data>
+  <data key="d1">6260.82750489667</data>
+  <data key="d2">500</data>
+  <data key="d3">563.4744754407003</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_23" target="bus_22">
+  <data key="d0">bus</data>
+  <data key="d1">6260.82750489667</data>
+  <data key="d2">500</data>
+  <data key="d3">563.4744754407003</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_23" target="bus_24">
+  <data key="d0">bus</data>
+  <data key="d1">589.8843797602799</data>
+  <data key="d2">500</data>
+  <data key="d3">53.089594178425195</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_23" target="bus_25">
+  <data key="d0">walk</data>
+  <data key="d1">1078.1493606854513</data>
+  <data key="d2">0</data>
+  <data key="d3">770.1066862038938</data>
+</edge>
+<edge source="bus_23" target="bus_35">
+  <data key="d0">walk</data>
+  <data key="d1">1343.5962899244043</data>
+  <data key="d2">0</data>
+  <data key="d3">959.7116356602888</data>
+</edge>
+<edge source="bus_23" target="bus_36">
+  <data key="d0">walk</data>
+  <data key="d1">802.8524921729007</data>
+  <data key="d2">0</data>
+  <data key="d3">573.4660658377862</data>
+</edge>
+<edge source="bus_23" target="bus_37">
+  <data key="d0">walk</data>
+  <data key="d1">1078.1493606854513</data>
+  <data key="d2">0</data>
+  <data key="d3">770.1066862038938</data>
+</edge>
+<edge source="bus_23" target="taxi_e2">
+  <data key="d0">walk</data>
+  <data key="d1">589.8843797602799</data>
+  <data key="d2">0</data>
+  <data key="d3">421.3459855430571</data>
+</edge>
+<edge source="bus_24" target="bus_23">
+  <data key="d0">bus</data>
+  <data key="d1">589.8843797602799</data>
+  <data key="d2">500</data>
+  <data key="d3">53.089594178425195</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_24" target="bus_25">
+  <data key="d0">bus</data>
+  <data key="d1">488.2649809251713</data>
+  <data key="d2">500</data>
+  <data key="d3">43.94384828326542</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_24" target="bus_35">
+  <data key="d0">walk</data>
+  <data key="d1">753.7119101641247</data>
+  <data key="d2">0</data>
+  <data key="d3">538.3656501172319</data>
+</edge>
+<edge source="bus_24" target="bus_36">
+  <data key="d0">walk</data>
+  <data key="d1">212.9681124126207</data>
+  <data key="d2">0</data>
+  <data key="d3">152.1200802947291</data>
+</edge>
+<edge source="bus_24" target="bus_37">
+  <data key="d0">walk</data>
+  <data key="d1">488.2649809251713</data>
+  <data key="d2">0</data>
+  <data key="d3">348.7607006608367</data>
+</edge>
+<edge source="bus_24" target="taxi_e2">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_25" target="bus_24">
+  <data key="d0">bus</data>
+  <data key="d1">488.2649809251713</data>
+  <data key="d2">500</data>
+  <data key="d3">43.94384828326542</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_25" target="bus_23">
+  <data key="d0">walk</data>
+  <data key="d1">1078.1493606854513</data>
+  <data key="d2">0</data>
+  <data key="d3">770.1066862038938</data>
+</edge>
+<edge source="bus_25" target="bus_35">
+  <data key="d0">walk</data>
+  <data key="d1">1241.9768910892958</data>
+  <data key="d2">0</data>
+  <data key="d3">887.1263507780685</data>
+</edge>
+<edge source="bus_25" target="bus_36">
+  <data key="d0">walk</data>
+  <data key="d1">376.233827921493</data>
+  <data key="d2">0</data>
+  <data key="d3">268.73844851535216</data>
+</edge>
+<edge source="bus_25" target="bus_37">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_25" target="taxi_e2">
+  <data key="d0">walk</data>
+  <data key="d1">488.26498092517136</data>
+  <data key="d2">0</data>
+  <data key="d3">348.76070066083673</data>
+</edge>
+<edge source="bus_31" target="bus_32">
+  <data key="d0">bus</data>
+  <data key="d1">1491.3370265524413</data>
+  <data key="d2">500</data>
+  <data key="d3">134.22033238971972</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_31" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">292.1488882934703</data>
+  <data key="d2">0</data>
+  <data key="d3">208.67777735247878</data>
+</edge>
+<edge source="bus_31" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">974.2936800101619</data>
+  <data key="d2">0</data>
+  <data key="d3">695.9240571501157</data>
+</edge>
+<edge source="bus_31" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">315.45772412630015</data>
+  <data key="d2">0</data>
+  <data key="d3">225.32694580450013</data>
+</edge>
+<edge source="bus_31" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">259.7512452741273</data>
+  <data key="d2">0</data>
+  <data key="d3">185.5366037672338</data>
+</edge>
+<edge source="bus_31" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">258.44915310572844</data>
+  <data key="d2">0</data>
+  <data key="d3">184.60653793266317</data>
+</edge>
+<edge source="bus_31" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">182.53335182143852</data>
+  <data key="d2">0</data>
+  <data key="d3">130.3809655867418</data>
+</edge>
+<edge source="bus_31" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">182.53335182143852</data>
+  <data key="d2">0</data>
+  <data key="d3">130.3809655867418</data>
+</edge>
+<edge source="bus_32" target="bus_31">
+  <data key="d0">bus</data>
+  <data key="d1">1491.3370265524413</data>
+  <data key="d2">500</data>
+  <data key="d3">134.22033238971972</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_32" target="bus_33">
+  <data key="d0">bus</data>
+  <data key="d1">873.2504974498977</data>
+  <data key="d2">500</data>
+  <data key="d3">78.59254477049079</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_32" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">1394.9422914856939</data>
+  <data key="d2">0</data>
+  <data key="d3">996.38735106121</data>
+</edge>
+<edge source="bus_32" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d1">1232.8056451895293</data>
+  <data key="d2">0</data>
+  <data key="d3">880.5754608496638</data>
+</edge>
+<edge source="bus_32" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">1377.7215612461991</data>
+  <data key="d2">0</data>
+  <data key="d3">984.0868294615709</data>
+</edge>
+<edge source="bus_32" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">1377.7215612461991</data>
+  <data key="d2">0</data>
+  <data key="d3">984.0868294615709</data>
+</edge>
+<edge source="bus_32" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d1">1232.8056451895293</data>
+  <data key="d2">0</data>
+  <data key="d3">880.5754608496638</data>
+</edge>
+<edge source="bus_32" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">1481.2222020614988</data>
+  <data key="d2">0</data>
+  <data key="d3">1058.0158586153564</data>
+</edge>
+<edge source="bus_32" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">1458.044905755596</data>
+  <data key="d2">0</data>
+  <data key="d3">1041.4606469682828</data>
+</edge>
+<edge source="bus_32" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">1458.044905755596</data>
+  <data key="d2">0</data>
+  <data key="d3">1041.4606469682828</data>
+</edge>
+<edge source="bus_33" target="bus_32">
+  <data key="d0">bus</data>
+  <data key="d1">873.2504974498977</data>
+  <data key="d2">500</data>
+  <data key="d3">78.59254477049079</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_33" target="bus_34">
+  <data key="d0">bus</data>
+  <data key="d1">678.0648776216271</data>
+  <data key="d2">500</data>
+  <data key="d3">61.02583898594644</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_33" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">1347.7538545824893</data>
+  <data key="d2">0</data>
+  <data key="d3">962.6813247017782</data>
+</edge>
+<edge source="bus_33" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">1347.7538545824893</data>
+  <data key="d2">0</data>
+  <data key="d3">962.6813247017782</data>
+</edge>
+<edge source="bus_34" target="bus_33">
+  <data key="d0">bus</data>
+  <data key="d1">678.0648776216271</data>
+  <data key="d2">500</data>
+  <data key="d3">61.02583898594644</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_34" target="bus_35">
+  <data key="d0">bus</data>
+  <data key="d1">925.9283178995862</data>
+  <data key="d2">500</data>
+  <data key="d3">83.33354861096277</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_34" target="bus_79b">
+  <data key="d0">walk</data>
+  <data key="d1">1211.7747652204598</data>
+  <data key="d2">0</data>
+  <data key="d3">865.5534037288999</data>
+</edge>
+<edge source="bus_35" target="bus_34">
+  <data key="d0">bus</data>
+  <data key="d1">925.9283178995862</data>
+  <data key="d2">500</data>
+  <data key="d3">83.33354861096277</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_35" target="bus_36">
+  <data key="d0">bus</data>
+  <data key="d1">917.836687679185</data>
+  <data key="d2">500</data>
+  <data key="d3">82.60530189112666</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_35" target="bus_23">
+  <data key="d0">walk</data>
+  <data key="d1">1343.5962899244043</data>
+  <data key="d2">0</data>
+  <data key="d3">959.7116356602888</data>
+</edge>
+<edge source="bus_35" target="bus_24">
+  <data key="d0">walk</data>
+  <data key="d1">753.7119101641247</data>
+  <data key="d2">0</data>
+  <data key="d3">538.3656501172319</data>
+</edge>
+<edge source="bus_35" target="bus_25">
+  <data key="d0">walk</data>
+  <data key="d1">1241.9768910892958</data>
+  <data key="d2">0</data>
+  <data key="d3">887.1263507780685</data>
+</edge>
+<edge source="bus_35" target="bus_37">
+  <data key="d0">walk</data>
+  <data key="d1">1241.976891089296</data>
+  <data key="d2">0</data>
+  <data key="d3">887.1263507780686</data>
+</edge>
+<edge source="bus_35" target="bus_79b">
+  <data key="d0">walk</data>
+  <data key="d1">1373.3952584887156</data>
+  <data key="d2">0</data>
+  <data key="d3">980.9966132062256</data>
+</edge>
+<edge source="bus_35" target="taxi_e2">
+  <data key="d0">walk</data>
+  <data key="d1">753.7119101641246</data>
+  <data key="d2">0</data>
+  <data key="d3">538.3656501172319</data>
+</edge>
+<edge source="bus_36" target="bus_35">
+  <data key="d0">bus</data>
+  <data key="d1">917.836687679185</data>
+  <data key="d2">500</data>
+  <data key="d3">82.60530189112666</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_36" target="bus_37">
+  <data key="d0">bus</data>
+  <data key="d1">376.233827921493</data>
+  <data key="d2">500</data>
+  <data key="d3">33.86104451293437</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_36" target="bus_23">
+  <data key="d0">walk</data>
+  <data key="d1">802.8524921729007</data>
+  <data key="d2">0</data>
+  <data key="d3">573.4660658377862</data>
+</edge>
+<edge source="bus_36" target="bus_24">
+  <data key="d0">walk</data>
+  <data key="d1">212.9681124126207</data>
+  <data key="d2">0</data>
+  <data key="d3">152.1200802947291</data>
+</edge>
+<edge source="bus_36" target="bus_25">
+  <data key="d0">walk</data>
+  <data key="d1">376.233827921493</data>
+  <data key="d2">0</data>
+  <data key="d3">268.73844851535216</data>
+</edge>
+<edge source="bus_36" target="taxi_e2">
+  <data key="d0">walk</data>
+  <data key="d1">212.9681124126207</data>
+  <data key="d2">0</data>
+  <data key="d3">152.1200802947291</data>
+</edge>
+<edge source="bus_37" target="bus_36">
+  <data key="d0">bus</data>
+  <data key="d1">376.233827921493</data>
+  <data key="d2">500</data>
+  <data key="d3">33.86104451293437</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_37" target="bus_23">
+  <data key="d0">walk</data>
+  <data key="d1">1078.1493606854513</data>
+  <data key="d2">0</data>
+  <data key="d3">770.1066862038938</data>
+</edge>
+<edge source="bus_37" target="bus_24">
+  <data key="d0">walk</data>
+  <data key="d1">488.2649809251713</data>
+  <data key="d2">0</data>
+  <data key="d3">348.7607006608367</data>
+</edge>
+<edge source="bus_37" target="bus_25">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_37" target="bus_35">
+  <data key="d0">walk</data>
+  <data key="d1">1241.976891089296</data>
+  <data key="d2">0</data>
+  <data key="d3">887.1263507780686</data>
+</edge>
+<edge source="bus_37" target="taxi_e2">
+  <data key="d0">walk</data>
+  <data key="d1">488.26498092517136</data>
+  <data key="d2">0</data>
+  <data key="d3">348.76070066083673</data>
+</edge>
+<edge source="bus_41" target="bus_42">
+  <data key="d0">bus</data>
+  <data key="d1">460.73997031736553</data>
+  <data key="d2">500</data>
+  <data key="d3">41.4665973285629</data>
+  <data key="d4">20</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_41" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1111.8317198190816</data>
+  <data key="d2">0</data>
+  <data key="d3">794.1655141564869</data>
+</edge>
+<edge source="bus_41" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">366.61785633727203</data>
+  <data key="d2">0</data>
+  <data key="d3">261.86989738376576</data>
+</edge>
+<edge source="bus_41" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_41" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1188.2628516100372</data>
+  <data key="d2">0</data>
+  <data key="d3">848.7591797214552</data>
+</edge>
+<edge source="bus_41" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_41" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">460.73997031736553</data>
+  <data key="d2">0</data>
+  <data key="d3">329.0999787981183</data>
+</edge>
+<edge source="bus_41" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_41" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1188.2628516100372</data>
+  <data key="d2">0</data>
+  <data key="d3">848.7591797214552</data>
+</edge>
+<edge source="bus_41" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1352.612867929795</data>
+  <data key="d2">0</data>
+  <data key="d3">966.1520485212822</data>
+</edge>
+<edge source="bus_41" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1494.031229783033</data>
+  <data key="d2">0</data>
+  <data key="d3">1067.165164130738</data>
+</edge>
+<edge source="bus_41" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">316.95113864334314</data>
+  <data key="d2">0</data>
+  <data key="d3">226.39367045953082</data>
+</edge>
+<edge source="bus_41" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">272.1859150957656</data>
+  <data key="d2">0</data>
+  <data key="d3">194.41851078268974</data>
+</edge>
+<edge source="bus_41" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">209.94586754112848</data>
+  <data key="d2">0</data>
+  <data key="d3">149.9613339579489</data>
+</edge>
+<edge source="bus_41" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">169.90315738284846</data>
+  <data key="d2">0</data>
+  <data key="d3">121.35939813060605</data>
+</edge>
+<edge source="bus_41" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1316.2782062158888</data>
+  <data key="d2">0</data>
+  <data key="d3">940.1987187256349</data>
+</edge>
+<edge source="bus_42" target="bus_41">
+  <data key="d0">bus</data>
+  <data key="d1">460.73997031736553</data>
+  <data key="d2">500</data>
+  <data key="d3">41.4665973285629</data>
+  <data key="d4">20</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_42" target="bus_43">
+  <data key="d0">bus</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">500</data>
+  <data key="d3">39.34482478079304</data>
+  <data key="d4">20</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_42" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">822.9069011297312</data>
+  <data key="d2">0</data>
+  <data key="d3">587.7906436640937</data>
+</edge>
+<edge source="bus_42" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926714</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233367</data>
+</edge>
+<edge source="bus_42" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931198</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522285</data>
+</edge>
+<edge source="bus_42" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">460.7399703173655</data>
+  <data key="d2">0</data>
+  <data key="d3">329.09997879811823</data>
+</edge>
+<edge source="bus_42" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_42" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">0</data>
+  <data key="d3">312.2605141332781</data>
+</edge>
+<edge source="bus_42" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926714</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233367</data>
+</edge>
+<edge source="bus_42" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931198</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522285</data>
+</edge>
+<edge source="bus_42" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">777.6911089607087</data>
+  <data key="d2">0</data>
+  <data key="d3">555.493649257649</data>
+</edge>
+<edge source="bus_42" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">732.9258854131311</data>
+  <data key="d2">0</data>
+  <data key="d3">523.518489580808</data>
+</edge>
+<edge source="bus_42" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">663.1444712516585</data>
+  <data key="d2">0</data>
+  <data key="d3">473.67462232261323</data>
+</edge>
+<edge source="bus_42" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">630.6431277002139</data>
+  <data key="d2">0</data>
+  <data key="d3">450.4593769287242</data>
+</edge>
+<edge source="bus_43" target="bus_42">
+  <data key="d0">bus</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">500</data>
+  <data key="d3">39.34482478079304</data>
+  <data key="d4">20</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_43" target="bus_44">
+  <data key="d0">bus</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">500</data>
+  <data key="d3">28.004019965496866</data>
+  <data key="d4">20</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_43" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1194.7205333590725</data>
+  <data key="d2">0</data>
+  <data key="d3">853.3718095421947</data>
+</edge>
+<edge source="bus_43" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_43" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025769</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875549</data>
+</edge>
+<edge source="bus_43" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_43" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">0</data>
+  <data key="d3">312.2605141332781</data>
+</edge>
+<edge source="bus_43" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_43" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">0</data>
+  <data key="d3">222.25412671029258</data>
+</edge>
+<edge source="bus_43" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025769</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875549</data>
+</edge>
+<edge source="bus_43" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">1197.2226717929982</data>
+  <data key="d2">0</data>
+  <data key="d3">855.159051280713</data>
+</edge>
+<edge source="bus_43" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1152.4574482454207</data>
+  <data key="d2">0</data>
+  <data key="d3">823.183891603872</data>
+</edge>
+<edge source="bus_43" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1034.9581034809999</data>
+  <data key="d2">0</data>
+  <data key="d3">739.2557882007143</data>
+</edge>
+<edge source="bus_43" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1050.1746905325035</data>
+  <data key="d2">0</data>
+  <data key="d3">750.1247789517882</data>
+</edge>
+<edge source="bus_44" target="bus_43">
+  <data key="d0">bus</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">500</data>
+  <data key="d3">28.004019965496866</data>
+  <data key="d4">20</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_44" target="bus_45">
+  <data key="d0">bus</data>
+  <data key="d1">556.1050610360821</data>
+  <data key="d2">500</data>
+  <data key="d3">50.04945549324739</data>
+  <data key="d4">20</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_44" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1496.9756756526433</data>
+  <data key="d2">0</data>
+  <data key="d3">1069.268339751888</data>
+</edge>
+<edge source="bus_44" target="bus_21">
+  <data key="d0">walk</data>
+  <data key="d1">1273.1788310323652</data>
+  <data key="d2">0</data>
+  <data key="d3">909.4134507374038</data>
+</edge>
+<edge source="bus_44" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">1188.2628516100372</data>
+  <data key="d2">0</data>
+  <data key="d3">848.7591797214552</data>
+</edge>
+<edge source="bus_44" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926714</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233367</data>
+</edge>
+<edge source="bus_44" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">1188.262851610037</data>
+  <data key="d2">0</data>
+  <data key="d3">848.759179721455</data>
+</edge>
+<edge source="bus_44" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926715</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233368</data>
+</edge>
+<edge source="bus_44" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">0</data>
+  <data key="d3">222.25412671029258</data>
+</edge>
+<edge source="bus_44" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_44" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d1">556.1050610360821</data>
+  <data key="d2">0</data>
+  <data key="d3">397.21790074005867</data>
+</edge>
+<edge source="bus_44" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1460.4487667058027</data>
+  <data key="d2">0</data>
+  <data key="d3">1043.1776905041447</data>
+</edge>
+<edge source="bus_44" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1346.1138808754097</data>
+  <data key="d2">0</data>
+  <data key="d3">961.509914911007</data>
+</edge>
+<edge source="bus_44" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1358.1660089928855</data>
+  <data key="d2">0</data>
+  <data key="d3">970.1185778520611</data>
+</edge>
+<edge source="bus_45" target="bus_44">
+  <data key="d0">bus</data>
+  <data key="d1">556.1050610360821</data>
+  <data key="d2">500</data>
+  <data key="d3">50.04945549324739</data>
+  <data key="d4">20</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_45" target="bus_46">
+  <data key="d0">bus</data>
+  <data key="d1">1559.6009071729254</data>
+  <data key="d2">500</data>
+  <data key="d3">140.3640816455633</data>
+  <data key="d4">20</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_45" target="bus_21">
+  <data key="d0">walk</data>
+  <data key="d1">907.9260554720004</data>
+  <data key="d2">0</data>
+  <data key="d3">648.5186110514289</data>
+</edge>
+<edge source="bus_45" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931198</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522285</data>
+</edge>
+<edge source="bus_45" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025769</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875549</data>
+</edge>
+<edge source="bus_45" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931196</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522283</data>
+</edge>
+<edge source="bus_45" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025771</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875551</data>
+</edge>
+<edge source="bus_45" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">556.105061036082</data>
+  <data key="d2">0</data>
+  <data key="d3">397.2179007400586</data>
+</edge>
+<edge source="bus_45" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_46" target="bus_45">
+  <data key="d0">bus</data>
+  <data key="d1">1559.6009071729254</data>
+  <data key="d2">500</data>
+  <data key="d3">140.3640816455633</data>
+  <data key="d4">20</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_46" target="bus_47">
+  <data key="d0">bus</data>
+  <data key="d1">1693.2637441258794</data>
+  <data key="d2">500</data>
+  <data key="d3">152.39373697132916</data>
+  <data key="d4">20</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_46" target="bus_56">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_47" target="bus_46">
+  <data key="d0">bus</data>
+  <data key="d1">1693.2637441258794</data>
+  <data key="d2">500</data>
+  <data key="d3">152.39373697132916</data>
+  <data key="d4">20</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_47" target="bus_48">
+  <data key="d0">bus</data>
+  <data key="d1">830.133163261234</data>
+  <data key="d2">500</data>
+  <data key="d3">74.71198469351107</data>
+  <data key="d4">20</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_47" target="bus_57">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_47" target="bus_58">
+  <data key="d0">walk</data>
+  <data key="d1">1383.0083995003604</data>
+  <data key="d2">0</data>
+  <data key="d3">987.8631425002575</data>
+</edge>
+<edge source="bus_47" target="taxi_e4">
+  <data key="d0">walk</data>
+  <data key="d1">1436.3291494789246</data>
+  <data key="d2">0</data>
+  <data key="d3">1025.9493924849462</data>
+</edge>
+<edge source="bus_48" target="bus_47">
+  <data key="d0">bus</data>
+  <data key="d1">830.133163261234</data>
+  <data key="d2">500</data>
+  <data key="d3">74.71198469351107</data>
+  <data key="d4">20</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_48" target="bus_49">
+  <data key="d0">bus</data>
+  <data key="d1">2316.0504082373695</data>
+  <data key="d2">500</data>
+  <data key="d3">208.44453674136327</data>
+  <data key="d4">20</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_48" target="bus_57">
+  <data key="d0">walk</data>
+  <data key="d1">830.133163261234</data>
+  <data key="d2">0</data>
+  <data key="d3">592.9522594723101</data>
+</edge>
+<edge source="bus_49" target="bus_48">
+  <data key="d0">bus</data>
+  <data key="d1">2316.0504082373695</data>
+  <data key="d2">500</data>
+  <data key="d3">208.44453674136327</data>
+  <data key="d4">20</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_49" target="taxi_e3">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_51" target="bus_52">
+  <data key="d0">bus</data>
+  <data key="d1">460.73997031736553</data>
+  <data key="d2">500</data>
+  <data key="d3">41.4665973285629</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_51" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1111.8317198190816</data>
+  <data key="d2">0</data>
+  <data key="d3">794.1655141564869</data>
+</edge>
+<edge source="bus_51" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">366.61785633727203</data>
+  <data key="d2">0</data>
+  <data key="d3">261.86989738376576</data>
+</edge>
+<edge source="bus_51" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_51" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">460.7399703173655</data>
+  <data key="d2">0</data>
+  <data key="d3">329.09997879811823</data>
+</edge>
+<edge source="bus_51" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_51" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1188.262851610037</data>
+  <data key="d2">0</data>
+  <data key="d3">848.759179721455</data>
+</edge>
+<edge source="bus_51" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_51" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1188.2628516100372</data>
+  <data key="d2">0</data>
+  <data key="d3">848.7591797214552</data>
+</edge>
+<edge source="bus_51" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1352.612867929795</data>
+  <data key="d2">0</data>
+  <data key="d3">966.1520485212822</data>
+</edge>
+<edge source="bus_51" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1494.031229783033</data>
+  <data key="d2">0</data>
+  <data key="d3">1067.165164130738</data>
+</edge>
+<edge source="bus_51" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">316.95113864334314</data>
+  <data key="d2">0</data>
+  <data key="d3">226.39367045953082</data>
+</edge>
+<edge source="bus_51" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">272.1859150957656</data>
+  <data key="d2">0</data>
+  <data key="d3">194.41851078268974</data>
+</edge>
+<edge source="bus_51" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">209.94586754112848</data>
+  <data key="d2">0</data>
+  <data key="d3">149.9613339579489</data>
+</edge>
+<edge source="bus_51" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">169.90315738284846</data>
+  <data key="d2">0</data>
+  <data key="d3">121.35939813060605</data>
+</edge>
+<edge source="bus_51" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1316.2782062158888</data>
+  <data key="d2">0</data>
+  <data key="d3">940.1987187256349</data>
+</edge>
+<edge source="bus_52" target="bus_51">
+  <data key="d0">bus</data>
+  <data key="d1">460.73997031736553</data>
+  <data key="d2">500</data>
+  <data key="d3">41.4665973285629</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_52" target="bus_53">
+  <data key="d0">bus</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">500</data>
+  <data key="d3">39.34482478079304</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_52" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">822.9069011297312</data>
+  <data key="d2">0</data>
+  <data key="d3">587.7906436640937</data>
+</edge>
+<edge source="bus_52" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">460.73997031736553</data>
+  <data key="d2">0</data>
+  <data key="d3">329.0999787981183</data>
+</edge>
+<edge source="bus_52" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_52" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">0</data>
+  <data key="d3">312.2605141332781</data>
+</edge>
+<edge source="bus_52" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926715</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233368</data>
+</edge>
+<edge source="bus_52" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931196</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522283</data>
+</edge>
+<edge source="bus_52" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926714</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233367</data>
+</edge>
+<edge source="bus_52" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931198</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522285</data>
+</edge>
+<edge source="bus_52" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">777.6911089607087</data>
+  <data key="d2">0</data>
+  <data key="d3">555.493649257649</data>
+</edge>
+<edge source="bus_52" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">732.9258854131311</data>
+  <data key="d2">0</data>
+  <data key="d3">523.518489580808</data>
+</edge>
+<edge source="bus_52" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">663.1444712516585</data>
+  <data key="d2">0</data>
+  <data key="d3">473.67462232261323</data>
+</edge>
+<edge source="bus_52" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">630.6431277002139</data>
+  <data key="d2">0</data>
+  <data key="d3">450.4593769287242</data>
+</edge>
+<edge source="bus_53" target="bus_52">
+  <data key="d0">bus</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">500</data>
+  <data key="d3">39.34482478079304</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_53" target="bus_54">
+  <data key="d0">bus</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">500</data>
+  <data key="d3">28.004019965496866</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_53" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1194.7205333590725</data>
+  <data key="d2">0</data>
+  <data key="d3">853.3718095421947</data>
+</edge>
+<edge source="bus_53" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_53" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">437.16471978658933</data>
+  <data key="d2">0</data>
+  <data key="d3">312.2605141332781</data>
+</edge>
+<edge source="bus_53" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_53" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">0</data>
+  <data key="d3">222.25412671029258</data>
+</edge>
+<edge source="bus_53" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025771</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875551</data>
+</edge>
+<edge source="bus_53" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">880.2715331496552</data>
+  <data key="d2">0</data>
+  <data key="d3">628.7653808211822</data>
+</edge>
+<edge source="bus_53" target="bus_55">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025769</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875549</data>
+</edge>
+<edge source="bus_53" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">1197.2226717929982</data>
+  <data key="d2">0</data>
+  <data key="d3">855.159051280713</data>
+</edge>
+<edge source="bus_53" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1152.4574482454207</data>
+  <data key="d2">0</data>
+  <data key="d3">823.183891603872</data>
+</edge>
+<edge source="bus_53" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1034.9581034809999</data>
+  <data key="d2">0</data>
+  <data key="d3">739.2557882007143</data>
+</edge>
+<edge source="bus_53" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1050.1746905325035</data>
+  <data key="d2">0</data>
+  <data key="d3">750.1247789517882</data>
+</edge>
+<edge source="bus_54" target="bus_53">
+  <data key="d0">bus</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">500</data>
+  <data key="d3">28.004019965496866</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_54" target="bus_55">
+  <data key="d0">bus</data>
+  <data key="d1">556.1050610360821</data>
+  <data key="d2">500</data>
+  <data key="d3">50.04945549324739</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_54" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1496.9756756526433</data>
+  <data key="d2">0</data>
+  <data key="d3">1069.268339751888</data>
+</edge>
+<edge source="bus_54" target="bus_21">
+  <data key="d0">walk</data>
+  <data key="d1">1273.1788310323652</data>
+  <data key="d2">0</data>
+  <data key="d3">909.4134507374038</data>
+</edge>
+<edge source="bus_54" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">1188.2628516100372</data>
+  <data key="d2">0</data>
+  <data key="d3">848.7591797214552</data>
+</edge>
+<edge source="bus_54" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926714</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233367</data>
+</edge>
+<edge source="bus_54" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">311.1557773944096</data>
+  <data key="d2">0</data>
+  <data key="d3">222.25412671029258</data>
+</edge>
+<edge source="bus_54" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_54" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d1">556.105061036082</data>
+  <data key="d2">0</data>
+  <data key="d3">397.2179007400586</data>
+</edge>
+<edge source="bus_54" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">1188.2628516100372</data>
+  <data key="d2">0</data>
+  <data key="d3">848.7591797214552</data>
+</edge>
+<edge source="bus_54" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">727.5228812926714</data>
+  <data key="d2">0</data>
+  <data key="d3">519.6592009233367</data>
+</edge>
+<edge source="bus_54" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1460.4487667058027</data>
+  <data key="d2">0</data>
+  <data key="d3">1043.1776905041447</data>
+</edge>
+<edge source="bus_54" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1346.1138808754097</data>
+  <data key="d2">0</data>
+  <data key="d3">961.509914911007</data>
+</edge>
+<edge source="bus_54" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1358.1660089928855</data>
+  <data key="d2">0</data>
+  <data key="d3">970.1185778520611</data>
+</edge>
+<edge source="bus_55" target="bus_54">
+  <data key="d0">bus</data>
+  <data key="d1">556.1050610360821</data>
+  <data key="d2">500</data>
+  <data key="d3">50.04945549324739</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_55" target="bus_56">
+  <data key="d0">bus</data>
+  <data key="d1">1559.6009071729254</data>
+  <data key="d2">500</data>
+  <data key="d3">140.3640816455633</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_55" target="bus_21">
+  <data key="d0">walk</data>
+  <data key="d1">907.9260554720004</data>
+  <data key="d2">0</data>
+  <data key="d3">648.5186110514289</data>
+</edge>
+<edge source="bus_55" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931198</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522285</data>
+</edge>
+<edge source="bus_55" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025769</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875549</data>
+</edge>
+<edge source="bus_55" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">556.1050610360821</data>
+  <data key="d2">0</data>
+  <data key="d3">397.21790074005867</data>
+</edge>
+<edge source="bus_55" target="bus_45">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_55" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">1246.0079797931198</data>
+  <data key="d2">0</data>
+  <data key="d3">890.0056998522285</data>
+</edge>
+<edge source="bus_55" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">862.2281728025769</data>
+  <data key="d2">0</data>
+  <data key="d3">615.8772662875549</data>
+</edge>
+<edge source="bus_56" target="bus_55">
+  <data key="d0">bus</data>
+  <data key="d1">1559.6009071729254</data>
+  <data key="d2">500</data>
+  <data key="d3">140.3640816455633</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_56" target="bus_57">
+  <data key="d0">bus</data>
+  <data key="d1">1693.2637441258794</data>
+  <data key="d2">500</data>
+  <data key="d3">152.39373697132916</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_56" target="bus_46">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_57" target="bus_56">
+  <data key="d0">bus</data>
+  <data key="d1">1693.2637441258794</data>
+  <data key="d2">500</data>
+  <data key="d3">152.39373697132916</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_57" target="bus_58">
+  <data key="d0">bus</data>
+  <data key="d1">1383.0083995003604</data>
+  <data key="d2">500</data>
+  <data key="d3">124.47075595503244</data>
+  <data key="d4">30</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_57" target="bus_47">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_57" target="bus_48">
+  <data key="d0">walk</data>
+  <data key="d1">830.133163261234</data>
+  <data key="d2">0</data>
+  <data key="d3">592.9522594723101</data>
+</edge>
+<edge source="bus_57" target="taxi_e4">
+  <data key="d0">walk</data>
+  <data key="d1">1436.3291494789246</data>
+  <data key="d2">0</data>
+  <data key="d3">1025.9493924849462</data>
+</edge>
+<edge source="bus_58" target="bus_57">
+  <data key="d0">bus</data>
+  <data key="d1">1383.0083995003604</data>
+  <data key="d2">500</data>
+  <data key="d3">124.47075595503244</data>
+  <data key="d4">30</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_58" target="bus_59">
+  <data key="d0">bus</data>
+  <data key="d1">1385.4687292812155</data>
+  <data key="d2">500</data>
+  <data key="d3">124.6921856353094</data>
+  <data key="d4">30</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_58" target="bus_47">
+  <data key="d0">walk</data>
+  <data key="d1">1383.0083995003604</data>
+  <data key="d2">0</data>
+  <data key="d3">987.8631425002575</data>
+</edge>
+<edge source="bus_59" target="bus_58">
+  <data key="d0">bus</data>
+  <data key="d1">1385.4687292812155</data>
+  <data key="d2">500</data>
+  <data key="d3">124.6921856353094</data>
+  <data key="d4">30</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_59" target="bus_59a">
+  <data key="d0">bus</data>
+  <data key="d1">1794.3653366211286</data>
+  <data key="d2">500</data>
+  <data key="d3">161.49288029590159</data>
+  <data key="d4">30</data>
+  <data key="d5">525</data>
+</edge>
+<edge source="bus_59a" target="bus_59">
+  <data key="d0">bus</data>
+  <data key="d1">1794.3653366211286</data>
+  <data key="d2">500</data>
+  <data key="d3">161.49288029590159</data>
+  <data key="d4">30</data>
+  <data key="d5">525</data>
+</edge>
+<edge source="bus_59a" target="bus_59b">
+  <data key="d0">bus</data>
+  <data key="d1">1550.1224623262337</data>
+  <data key="d2">500</data>
+  <data key="d3">139.51102160936105</data>
+  <data key="d4">30</data>
+  <data key="d5">530</data>
+</edge>
+<edge source="bus_59b" target="bus_59a">
+  <data key="d0">bus</data>
+  <data key="d1">1550.1224623262337</data>
+  <data key="d2">500</data>
+  <data key="d3">139.51102160936105</data>
+  <data key="d4">30</data>
+  <data key="d5">530</data>
+</edge>
+<edge source="bus_61" target="bus_62">
+  <data key="d0">bus</data>
+  <data key="d1">590.3332204062967</data>
+  <data key="d2">500</data>
+  <data key="d3">53.12998983656671</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_61" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1183.4737297155807</data>
+  <data key="d2">0</data>
+  <data key="d3">845.338378368272</data>
+</edge>
+<edge source="bus_61" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">590.4633393383955</data>
+  <data key="d2">0</data>
+  <data key="d3">421.75952809885393</data>
+</edge>
+<edge source="bus_61" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">240.7811481107134</data>
+  <data key="d2">0</data>
+  <data key="d3">171.9865343647953</data>
+</edge>
+<edge source="bus_61" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1023.8194159786733</data>
+  <data key="d2">0</data>
+  <data key="d3">731.2995828419096</data>
+</edge>
+<edge source="bus_61" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">1352.612867929795</data>
+  <data key="d2">0</data>
+  <data key="d3">966.1520485212822</data>
+</edge>
+<edge source="bus_61" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">1352.612867929795</data>
+  <data key="d2">0</data>
+  <data key="d3">966.1520485212822</data>
+</edge>
+<edge source="bus_61" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">1201.3260832167455</data>
+  <data key="d2">0</data>
+  <data key="d3">858.0900594405325</data>
+</edge>
+<edge source="bus_61" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1331.387508226577</data>
+  <data key="d2">0</data>
+  <data key="d3">950.9910773046979</data>
+</edge>
+<edge source="bus_61" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1104.0355067310857</data>
+  <data key="d2">0</data>
+  <data key="d3">788.5967905222041</data>
+</edge>
+<edge source="bus_61" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">660.5401432803653</data>
+  <data key="d2">0</data>
+  <data key="d3">471.81438805740385</data>
+</edge>
+<edge source="bus_61" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">727.0950378161112</data>
+  <data key="d2">0</data>
+  <data key="d3">519.3535984400795</data>
+</edge>
+<edge source="bus_61" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1174.0125564477596</data>
+  <data key="d2">0</data>
+  <data key="d3">838.5803974626855</data>
+</edge>
+<edge source="bus_61" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1174.0125564477596</data>
+  <data key="d2">0</data>
+  <data key="d3">838.5803974626855</data>
+</edge>
+<edge source="bus_61" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">736.54305424833</data>
+  <data key="d2">0</data>
+  <data key="d3">526.10218160595</data>
+</edge>
+<edge source="bus_61" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">1035.6617292864519</data>
+  <data key="d2">0</data>
+  <data key="d3">739.7583780617514</data>
+</edge>
+<edge source="bus_61" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1080.4269528340294</data>
+  <data key="d2">0</data>
+  <data key="d3">771.7335377385925</data>
+</edge>
+<edge source="bus_61" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1187.689315725681</data>
+  <data key="d2">0</data>
+  <data key="d3">848.3495112326293</data>
+</edge>
+<edge source="bus_61" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1182.7097105469466</data>
+  <data key="d2">0</data>
+  <data key="d3">844.7926503906762</data>
+</edge>
+<edge source="bus_61" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">53.327868241967835</data>
+  <data key="d2">0</data>
+  <data key="d3">38.09133445854845</data>
+</edge>
+<edge source="bus_61" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">990.0994926338908</data>
+  <data key="d2">0</data>
+  <data key="d3">707.213923309922</data>
+</edge>
+<edge source="bus_62" target="bus_61">
+  <data key="d0">bus</data>
+  <data key="d1">590.3332204062967</data>
+  <data key="d2">500</data>
+  <data key="d3">53.12998983656671</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_62" target="bus_63">
+  <data key="d0">bus</data>
+  <data key="d1">610.9928628104487</data>
+  <data key="d2">500</data>
+  <data key="d3">54.98935765294039</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_62" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1180.7965597446926</data>
+  <data key="d2">0</data>
+  <data key="d3">843.4261141033519</data>
+</edge>
+<edge source="bus_62" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">807.7416845249517</data>
+  <data key="d2">0</data>
+  <data key="d3">576.9583460892512</data>
+</edge>
+<edge source="bus_62" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">1147.839793240723</data>
+  <data key="d2">0</data>
+  <data key="d3">819.8855666005165</data>
+</edge>
+<edge source="bus_62" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">1494.031229783033</data>
+  <data key="d2">0</data>
+  <data key="d3">1067.165164130738</data>
+</edge>
+<edge source="bus_62" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">1494.031229783033</data>
+  <data key="d2">0</data>
+  <data key="d3">1067.165164130738</data>
+</edge>
+<edge source="bus_62" target="bus_64">
+  <data key="d0">walk</data>
+  <data key="d1">1247.6990231413522</data>
+  <data key="d2">0</data>
+  <data key="d3">891.2135879581087</data>
+</edge>
+<edge source="bus_62" target="bus_65">
+  <data key="d0">walk</data>
+  <data key="d1">1459.1054176838904</data>
+  <data key="d2">0</data>
+  <data key="d3">1042.2181554884933</data>
+</edge>
+<edge source="bus_62" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">1035.1900877843093</data>
+  <data key="d2">0</data>
+  <data key="d3">739.4214912745067</data>
+</edge>
+<edge source="bus_62" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1009.6388867431953</data>
+  <data key="d2">0</data>
+  <data key="d3">721.1706333879966</data>
+</edge>
+<edge source="bus_62" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">838.8614771442394</data>
+  <data key="d2">0</data>
+  <data key="d3">599.1867693887425</data>
+</edge>
+<edge source="bus_62" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">1250.8733636866623</data>
+  <data key="d2">0</data>
+  <data key="d3">893.4809740619016</data>
+</edge>
+<edge source="bus_62" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">1317.4282582224077</data>
+  <data key="d2">0</data>
+  <data key="d3">941.020184444577</data>
+</edge>
+<edge source="bus_62" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">1326.8762746546272</data>
+  <data key="d2">0</data>
+  <data key="d3">947.7687676104481</data>
+</edge>
+<edge source="bus_62" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">1328.1957624032295</data>
+  <data key="d2">0</data>
+  <data key="d3">948.7112588594497</data>
+</edge>
+<edge source="bus_62" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1354.8202558572787</data>
+  <data key="d2">0</data>
+  <data key="d3">967.7287541837705</data>
+</edge>
+<edge source="bus_62" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1291.283273192769</data>
+  <data key="d2">0</data>
+  <data key="d3">922.3451951376923</data>
+</edge>
+<edge source="bus_62" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1324.1280724001847</data>
+  <data key="d2">0</data>
+  <data key="d3">945.8057660001319</data>
+</edge>
+<edge source="bus_62" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">643.6610886482647</data>
+  <data key="d2">0</data>
+  <data key="d3">459.7579204630462</data>
+</edge>
+<edge source="bus_62" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1139.362106224957</data>
+  <data key="d2">0</data>
+  <data key="d3">813.8300758749693</data>
+</edge>
+<edge source="bus_63" target="bus_62">
+  <data key="d0">bus</data>
+  <data key="d1">610.9928628104487</data>
+  <data key="d2">500</data>
+  <data key="d3">54.98935765294039</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_63" target="bus_64">
+  <data key="d0">bus</data>
+  <data key="d1">641.2773404138962</data>
+  <data key="d2">500</data>
+  <data key="d3">57.71496063725066</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_63" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1415.4455596696725</data>
+  <data key="d2">0</data>
+  <data key="d3">1011.0325426211947</data>
+</edge>
+<edge source="bus_63" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1201.3260832167455</data>
+  <data key="d2">0</data>
+  <data key="d3">858.0900594405325</data>
+</edge>
+<edge source="bus_63" target="bus_65">
+  <data key="d0">walk</data>
+  <data key="d1">848.1125548734415</data>
+  <data key="d2">0</data>
+  <data key="d3">605.7946820524583</data>
+</edge>
+<edge source="bus_63" target="bus_66">
+  <data key="d0">walk</data>
+  <data key="d1">1261.9474546606814</data>
+  <data key="d2">0</data>
+  <data key="d3">901.3910390433439</data>
+</edge>
+<edge source="bus_63" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">828.7371084622445</data>
+  <data key="d2">0</data>
+  <data key="d3">591.9550774730318</data>
+</edge>
+<edge source="bus_63" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1082.9028494099857</data>
+  <data key="d2">0</data>
+  <data key="d3">773.502035292847</data>
+</edge>
+<edge source="bus_63" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1284.0574372631272</data>
+  <data key="d2">0</data>
+  <data key="d3">917.1838837593766</data>
+</edge>
+<edge source="bus_63" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1254.6539514587137</data>
+  <data key="d2">0</data>
+  <data key="d3">896.1813938990813</data>
+</edge>
+<edge source="bus_64" target="bus_63">
+  <data key="d0">bus</data>
+  <data key="d1">641.2773404138962</data>
+  <data key="d2">500</data>
+  <data key="d3">57.71496063725066</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_64" target="bus_65">
+  <data key="d0">bus</data>
+  <data key="d1">233.09569926489212</data>
+  <data key="d2">500</data>
+  <data key="d3">20.978612933840292</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_64" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1247.6990231413522</data>
+  <data key="d2">0</data>
+  <data key="d3">891.2135879581087</data>
+</edge>
+<edge source="bus_64" target="bus_66">
+  <data key="d0">walk</data>
+  <data key="d1">646.9305990521322</data>
+  <data key="d2">0</data>
+  <data key="d3">462.0932850372373</data>
+</edge>
+<edge source="bus_64" target="bus_67">
+  <data key="d0">walk</data>
+  <data key="d1">1442.397454150706</data>
+  <data key="d2">0</data>
+  <data key="d3">1030.283895821933</data>
+</edge>
+<edge source="bus_64" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">1421.495813978454</data>
+  <data key="d2">0</data>
+  <data key="d3">1015.3541528417529</data>
+</edge>
+<edge source="bus_65" target="bus_64">
+  <data key="d0">bus</data>
+  <data key="d1">233.09569926489212</data>
+  <data key="d2">500</data>
+  <data key="d3">20.978612933840292</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_65" target="bus_66">
+  <data key="d0">bus</data>
+  <data key="d1">413.83489978724003</data>
+  <data key="d2">500</data>
+  <data key="d3">37.2451409808516</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_65" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1459.1054176838904</data>
+  <data key="d2">0</data>
+  <data key="d3">1042.2181554884933</data>
+</edge>
+<edge source="bus_65" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">848.1125548734415</data>
+  <data key="d2">0</data>
+  <data key="d3">605.7946820524583</data>
+</edge>
+<edge source="bus_65" target="bus_67">
+  <data key="d0">walk</data>
+  <data key="d1">1239.6616267721304</data>
+  <data key="d2">0</data>
+  <data key="d3">885.4725905515218</data>
+</edge>
+<edge source="bus_65" target="taxi_e5">
+  <data key="d0">walk</data>
+  <data key="d1">1410.2077316317714</data>
+  <data key="d2">0</data>
+  <data key="d3">1007.2912368798368</data>
+</edge>
+<edge source="bus_66" target="bus_65">
+  <data key="d0">bus</data>
+  <data key="d1">413.83489978724003</data>
+  <data key="d2">500</data>
+  <data key="d3">37.2451409808516</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_66" target="bus_67">
+  <data key="d0">bus</data>
+  <data key="d1">826.6029342932782</data>
+  <data key="d2">500</data>
+  <data key="d3">74.39426408639504</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_66" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">1261.9474546606814</data>
+  <data key="d2">0</data>
+  <data key="d3">901.3910390433439</data>
+</edge>
+<edge source="bus_66" target="bus_64">
+  <data key="d0">walk</data>
+  <data key="d1">646.9305990521322</data>
+  <data key="d2">0</data>
+  <data key="d3">462.0932850372373</data>
+</edge>
+<edge source="bus_66" target="taxi_e5">
+  <data key="d0">walk</data>
+  <data key="d1">997.1490391529193</data>
+  <data key="d2">0</data>
+  <data key="d3">712.2493136806567</data>
+</edge>
+<edge source="bus_67" target="bus_66">
+  <data key="d0">bus</data>
+  <data key="d1">826.6029342932782</data>
+  <data key="d2">500</data>
+  <data key="d3">74.39426408639504</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_67" target="bus_64">
+  <data key="d0">walk</data>
+  <data key="d1">1442.397454150706</data>
+  <data key="d2">0</data>
+  <data key="d3">1030.283895821933</data>
+</edge>
+<edge source="bus_67" target="bus_65">
+  <data key="d0">walk</data>
+  <data key="d1">1239.6616267721304</data>
+  <data key="d2">0</data>
+  <data key="d3">885.4725905515218</data>
+</edge>
+<edge source="bus_67" target="taxi_e5">
+  <data key="d0">walk</data>
+  <data key="d1">170.54610485964105</data>
+  <data key="d2">0</data>
+  <data key="d3">121.81864632831504</data>
+</edge>
+<edge source="bus_71" target="bus_72">
+  <data key="d0">bus</data>
+  <data key="d1">254.1657409477413</data>
+  <data key="d2">500</data>
+  <data key="d3">22.874916685296718</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_71" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1370.2864182899634</data>
+  <data key="d2">0</data>
+  <data key="d3">978.7760130642597</data>
+</edge>
+<edge source="bus_71" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1035.1900877843093</data>
+  <data key="d2">0</data>
+  <data key="d3">739.4214912745067</data>
+</edge>
+<edge source="bus_71" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">828.7371084622445</data>
+  <data key="d2">0</data>
+  <data key="d3">591.9550774730318</data>
+</edge>
+<edge source="bus_71" target="bus_64">
+  <data key="d0">walk</data>
+  <data key="d1">1421.495813978454</data>
+  <data key="d2">0</data>
+  <data key="d3">1015.3541528417529</data>
+</edge>
+<edge source="bus_71" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">471.90073402276863</data>
+  <data key="d2">0</data>
+  <data key="d3">337.0719528734062</data>
+</edge>
+<edge source="bus_71" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">1280.8606460514452</data>
+  <data key="d2">0</data>
+  <data key="d3">914.900461465318</data>
+</edge>
+<edge source="bus_71" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">1434.9354895159688</data>
+  <data key="d2">0</data>
+  <data key="d3">1024.953921082835</data>
+</edge>
+<edge source="bus_71" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1088.7934295628888</data>
+  <data key="d2">0</data>
+  <data key="d3">777.7095925449206</data>
+</edge>
+<edge source="bus_72" target="bus_71">
+  <data key="d0">bus</data>
+  <data key="d1">254.1657409477413</data>
+  <data key="d2">500</data>
+  <data key="d3">22.874916685296718</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_72" target="bus_73">
+  <data key="d0">bus</data>
+  <data key="d1">232.83977204791123</data>
+  <data key="d2">500</data>
+  <data key="d3">20.95557948431201</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_72" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1125.7376857626864</data>
+  <data key="d2">0</data>
+  <data key="d3">804.0983469733475</data>
+</edge>
+<edge source="bus_72" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1331.387508226577</data>
+  <data key="d2">0</data>
+  <data key="d3">950.9910773046979</data>
+</edge>
+<edge source="bus_72" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1009.6388867431953</data>
+  <data key="d2">0</data>
+  <data key="d3">721.1706333879966</data>
+</edge>
+<edge source="bus_72" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">1082.9028494099857</data>
+  <data key="d2">0</data>
+  <data key="d3">773.502035292847</data>
+</edge>
+<edge source="bus_72" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">1036.311913524168</data>
+  <data key="d2">0</data>
+  <data key="d3">740.2227953744057</data>
+</edge>
+<edge source="bus_72" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">1262.3693842404018</data>
+  <data key="d2">0</data>
+  <data key="d3">901.6924173145728</data>
+</edge>
+<edge source="bus_72" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">1190.3867569886916</data>
+  <data key="d2">0</data>
+  <data key="d3">850.2762549919225</data>
+</edge>
+<edge source="bus_72" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1374.0849619896837</data>
+  <data key="d2">0</data>
+  <data key="d3">981.4892585640599</data>
+</edge>
+<edge source="bus_72" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">836.1894583058765</data>
+  <data key="d2">0</data>
+  <data key="d3">597.2781845041976</data>
+</edge>
+<edge source="bus_73" target="bus_72">
+  <data key="d0">bus</data>
+  <data key="d1">232.83977204791123</data>
+  <data key="d2">500</data>
+  <data key="d3">20.95557948431201</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_73" target="bus_74">
+  <data key="d0">bus</data>
+  <data key="d1">808.9599120286766</data>
+  <data key="d2">500</data>
+  <data key="d3">72.8063920825809</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_73" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1411.3389313768607</data>
+  <data key="d2">0</data>
+  <data key="d3">1008.0992366977578</data>
+</edge>
+<edge source="bus_73" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">898.385684267195</data>
+  <data key="d2">0</data>
+  <data key="d3">641.7040601908536</data>
+</edge>
+<edge source="bus_73" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1322.5160272925937</data>
+  <data key="d2">0</data>
+  <data key="d3">944.6543052089955</data>
+</edge>
+<edge source="bus_73" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1104.0355067310857</data>
+  <data key="d2">0</data>
+  <data key="d3">788.5967905222041</data>
+</edge>
+<edge source="bus_73" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">838.8614771442394</data>
+  <data key="d2">0</data>
+  <data key="d3">599.1867693887425</data>
+</edge>
+<edge source="bus_73" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">1284.0574372631272</data>
+  <data key="d2">0</data>
+  <data key="d3">917.1838837593766</data>
+</edge>
+<edge source="bus_73" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">471.90073402276863</data>
+  <data key="d2">0</data>
+  <data key="d3">337.0719528734062</data>
+</edge>
+<edge source="bus_73" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">1035.017382744911</data>
+  <data key="d2">0</data>
+  <data key="d3">739.2981305320793</data>
+</edge>
+<edge source="bus_73" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1395.14944269091</data>
+  <data key="d2">0</data>
+  <data key="d3">996.535316207793</data>
+</edge>
+<edge source="bus_73" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1395.14944269091</data>
+  <data key="d2">0</data>
+  <data key="d3">996.535316207793</data>
+</edge>
+<edge source="bus_73" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">963.0347554932</data>
+  <data key="d2">0</data>
+  <data key="d3">687.8819682094286</data>
+</edge>
+<edge source="bus_73" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1146.7329604941924</data>
+  <data key="d2">0</data>
+  <data key="d3">819.0949717815661</data>
+</edge>
+<edge source="bus_73" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">628.0471605742506</data>
+  <data key="d2">0</data>
+  <data key="d3">448.6051146958933</data>
+</edge>
+<edge source="bus_74" target="bus_73">
+  <data key="d0">bus</data>
+  <data key="d1">808.9599120286766</data>
+  <data key="d2">500</data>
+  <data key="d3">72.8063920825809</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_74" target="bus_75">
+  <data key="d0">bus</data>
+  <data key="d1">226.05747071623418</data>
+  <data key="d2">500</data>
+  <data key="d3">20.345172364461078</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_74" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1155.4551105356795</data>
+  <data key="d2">0</data>
+  <data key="d3">825.3250789540568</data>
+</edge>
+<edge source="bus_74" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">602.3790193481839</data>
+  <data key="d2">0</data>
+  <data key="d3">430.27072810584565</data>
+</edge>
+<edge source="bus_74" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">89.42577223851839</data>
+  <data key="d2">0</data>
+  <data key="d3">63.87555159894171</data>
+</edge>
+<edge source="bus_74" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">746.2860224477977</data>
+  <data key="d2">0</data>
+  <data key="d3">533.0614446055698</data>
+</edge>
+<edge source="bus_74" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">660.5401432803653</data>
+  <data key="d2">0</data>
+  <data key="d3">471.81438805740385</data>
+</edge>
+<edge source="bus_74" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1250.8733636866623</data>
+  <data key="d2">0</data>
+  <data key="d3">893.4809740619016</data>
+</edge>
+<edge source="bus_74" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">1280.8606460514452</data>
+  <data key="d2">0</data>
+  <data key="d3">914.900461465318</data>
+</edge>
+<edge source="bus_74" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1036.311913524168</data>
+  <data key="d2">0</data>
+  <data key="d3">740.2227953744057</data>
+</edge>
+<edge source="bus_74" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">672.9749893478822</data>
+  <data key="d2">0</data>
+  <data key="d3">480.69642096277306</data>
+</edge>
+<edge source="bus_74" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">1126.3171915017704</data>
+  <data key="d2">0</data>
+  <data key="d3">804.5122796441217</data>
+</edge>
+<edge source="bus_74" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1125.221951032684</data>
+  <data key="d2">0</data>
+  <data key="d3">803.7299650233458</data>
+</edge>
+<edge source="bus_74" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">672.9749893478822</data>
+  <data key="d2">0</data>
+  <data key="d3">480.69642096277306</data>
+</edge>
+<edge source="bus_74" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">154.07484346452352</data>
+  <data key="d2">0</data>
+  <data key="d3">110.05345961751681</data>
+</edge>
+<edge source="bus_74" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">607.2122750383975</data>
+  <data key="d2">0</data>
+  <data key="d3">433.72305359885536</data>
+</edge>
+<edge source="bus_74" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">672.1802966331184</data>
+  <data key="d2">0</data>
+  <data key="d3">480.1287833093703</data>
+</edge>
+<edge source="bus_75" target="bus_74">
+  <data key="d0">bus</data>
+  <data key="d1">226.05747071623418</data>
+  <data key="d2">500</data>
+  <data key="d3">20.345172364461078</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_75" target="bus_76">
+  <data key="d0">bus</data>
+  <data key="d1">446.91751863164814</data>
+  <data key="d2">500</data>
+  <data key="d3">40.222576676848334</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_75" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1193.78326564075</data>
+  <data key="d2">0</data>
+  <data key="d3">852.7023326005358</data>
+</edge>
+<edge source="bus_75" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">616.383134641412</data>
+  <data key="d2">0</data>
+  <data key="d3">440.2736676010086</data>
+</edge>
+<edge source="bus_75" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">136.63169847771576</data>
+  <data key="d2">0</data>
+  <data key="d3">97.59407034122555</data>
+</edge>
+<edge source="bus_75" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">803.9165424557366</data>
+  <data key="d2">0</data>
+  <data key="d3">574.2261017540976</data>
+</edge>
+<edge source="bus_75" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">727.0950378161112</data>
+  <data key="d2">0</data>
+  <data key="d3">519.3535984400795</data>
+</edge>
+<edge source="bus_75" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1317.4282582224077</data>
+  <data key="d2">0</data>
+  <data key="d3">941.020184444577</data>
+</edge>
+<edge source="bus_75" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1262.3693842404018</data>
+  <data key="d2">0</data>
+  <data key="d3">901.6924173145728</data>
+</edge>
+<edge source="bus_75" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1035.017382744911</data>
+  <data key="d2">0</data>
+  <data key="d3">739.2981305320793</data>
+</edge>
+<edge source="bus_75" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">900.2597207855362</data>
+  <data key="d2">0</data>
+  <data key="d3">643.0426577039544</data>
+</edge>
+<edge source="bus_75" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">899.1644803164496</data>
+  <data key="d2">0</data>
+  <data key="d3">642.2603430831783</data>
+</edge>
+<edge source="bus_75" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">446.91751863164814</data>
+  <data key="d2">0</data>
+  <data key="d3">319.2267990226058</data>
+</edge>
+<edge source="bus_75" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">181.9220572639501</data>
+  <data key="d2">0</data>
+  <data key="d3">129.94432661710724</data>
+</edge>
+<edge source="bus_75" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">673.7671695741434</data>
+  <data key="d2">0</data>
+  <data key="d3">481.262263981531</data>
+</edge>
+<edge source="bus_75" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">898.2377673493525</data>
+  <data key="d2">0</data>
+  <data key="d3">641.5984052495376</data>
+</edge>
+<edge source="bus_76" target="bus_75">
+  <data key="d0">bus</data>
+  <data key="d1">446.91751863164814</data>
+  <data key="d2">500</data>
+  <data key="d3">40.222576676848334</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_76" target="bus_77">
+  <data key="d0">bus</data>
+  <data key="d1">453.342202153888</data>
+  <data key="d2">500</data>
+  <data key="d3">40.80079819384992</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_76" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1196.1475838081835</data>
+  <data key="d2">0</data>
+  <data key="d3">854.3911312915598</data>
+</edge>
+<edge source="bus_76" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">867.2486214960226</data>
+  <data key="d2">0</data>
+  <data key="d3">619.4633010685876</data>
+</edge>
+<edge source="bus_76" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">583.5492171093639</data>
+  <data key="d2">0</data>
+  <data key="d3">416.8208693638314</data>
+</edge>
+<edge source="bus_76" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1250.834061087385</data>
+  <data key="d2">0</data>
+  <data key="d3">893.4529007767036</data>
+</edge>
+<edge source="bus_76" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1174.0125564477596</data>
+  <data key="d2">0</data>
+  <data key="d3">838.5803974626855</data>
+</edge>
+<edge source="bus_76" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1395.14944269091</data>
+  <data key="d2">0</data>
+  <data key="d3">996.535316207793</data>
+</edge>
+<edge source="bus_76" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">672.9749893478822</data>
+  <data key="d2">0</data>
+  <data key="d3">480.69642096277306</data>
+</edge>
+<edge source="bus_76" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_76" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_76" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">452.2469616848013</data>
+  <data key="d2">0</data>
+  <data key="d3">323.0335440605724</data>
+</edge>
+<edge source="bus_76" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_76" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">560.0977398511975</data>
+  <data key="d2">0</data>
+  <data key="d3">400.0698141794268</data>
+</edge>
+<edge source="bus_76" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1120.6846882057916</data>
+  <data key="d2">0</data>
+  <data key="d3">800.4890630041369</data>
+</edge>
+<edge source="bus_76" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1237.9247355522104</data>
+  <data key="d2">0</data>
+  <data key="d3">884.2319539658647</data>
+</edge>
+<edge source="bus_77" target="bus_76">
+  <data key="d0">bus</data>
+  <data key="d1">453.342202153888</data>
+  <data key="d2">500</data>
+  <data key="d3">40.80079819384992</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_77" target="bus_78">
+  <data key="d0">bus</data>
+  <data key="d1">839.2020526450901</data>
+  <data key="d2">500</data>
+  <data key="d3">75.52818473805812</data>
+  <data key="d4">30</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_77" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1277.560597308261</data>
+  <data key="d2">0</data>
+  <data key="d3">912.5432837916152</data>
+</edge>
+<edge source="bus_77" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1036.891419263252</data>
+  <data key="d2">0</data>
+  <data key="d3">740.63672804518</data>
+</edge>
+<edge source="bus_77" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">1126.3171915017704</data>
+  <data key="d2">0</data>
+  <data key="d3">804.5122796441217</data>
+</edge>
+<edge source="bus_77" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">900.2597207855362</data>
+  <data key="d2">0</data>
+  <data key="d3">643.0426577039544</data>
+</edge>
+<edge source="bus_77" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">1261.4930853953022</data>
+  <data key="d2">0</data>
+  <data key="d3">901.066489568073</data>
+</edge>
+<edge source="bus_77" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">1261.4930853953022</data>
+  <data key="d2">0</data>
+  <data key="d3">901.066489568073</data>
+</edge>
+<edge source="bus_77" target="bus_85">
+  <data key="d0">walk</data>
+  <data key="d1">1467.7894653071896</data>
+  <data key="d2">0</data>
+  <data key="d3">1048.4210466479926</data>
+</edge>
+<edge source="bus_77" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d1">839.2020526450901</data>
+  <data key="d2">0</data>
+  <data key="d3">599.4300376036358</data>
+</edge>
+<edge source="bus_77" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">8.145930883651825</data>
+  <data key="d2">0</data>
+  <data key="d3">5.818522059751304</data>
+</edge>
+<edge source="bus_77" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">453.34220215388797</data>
+  <data key="d2">0</data>
+  <data key="d3">323.8158586813486</data>
+</edge>
+<edge source="bus_77" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">992.453424311392</data>
+  <data key="d2">0</data>
+  <data key="d3">708.8953030795658</data>
+</edge>
+<edge source="bus_78" target="bus_77">
+  <data key="d0">bus</data>
+  <data key="d1">839.2020526450901</data>
+  <data key="d2">500</data>
+  <data key="d3">75.52818473805812</data>
+  <data key="d4">30</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_78" target="bus_79">
+  <data key="d0">bus</data>
+  <data key="d1">424.4106775422517</data>
+  <data key="d2">500</data>
+  <data key="d3">38.19696097880265</data>
+  <data key="d4">30</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_78" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1232.8056451895293</data>
+  <data key="d2">0</data>
+  <data key="d3">880.5754608496638</data>
+</edge>
+<edge source="bus_78" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_78" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">424.4106775422517</data>
+  <data key="d2">0</data>
+  <data key="d3">303.15048395875124</data>
+</edge>
+<edge source="bus_78" target="bus_85">
+  <data key="d0">walk</data>
+  <data key="d1">638.5665561197031</data>
+  <data key="d2">0</data>
+  <data key="d3">456.11896865693086</data>
+</edge>
+<edge source="bus_78" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_78" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">846.078519198015</data>
+  <data key="d2">0</data>
+  <data key="d3">604.3417994271535</data>
+</edge>
+<edge source="bus_78" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_79" target="bus_78">
+  <data key="d0">bus</data>
+  <data key="d1">424.4106775422517</data>
+  <data key="d2">500</data>
+  <data key="d3">38.19696097880265</data>
+  <data key="d4">30</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_79" target="bus_79a">
+  <data key="d0">bus</data>
+  <data key="d6">0</data>
+  <data key="d2">500</data>
+  <data key="d3">0.0</data>
+  <data key="d4">30</data>
+  <data key="d5">525</data>
+</edge>
+<edge source="bus_79" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1377.7215612461991</data>
+  <data key="d2">0</data>
+  <data key="d3">984.0868294615709</data>
+</edge>
+<edge source="bus_79" target="bus_33">
+  <data key="d0">walk</data>
+  <data key="d1">1347.7538545824893</data>
+  <data key="d2">0</data>
+  <data key="d3">962.6813247017782</data>
+</edge>
+<edge source="bus_79" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">1261.4930853953022</data>
+  <data key="d2">0</data>
+  <data key="d3">901.066489568073</data>
+</edge>
+<edge source="bus_79" target="bus_79b">
+  <data key="d0">walk</data>
+  <data key="d1">1476.2440076697224</data>
+  <data key="d2">0</data>
+  <data key="d3">1054.4600054783732</data>
+</edge>
+<edge source="bus_79" target="bus_85">
+  <data key="d0">walk</data>
+  <data key="d1">491.87519556485563</data>
+  <data key="d2">0</data>
+  <data key="d3">351.33942540346834</data>
+</edge>
+<edge source="bus_79" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d1">424.41067754225173</data>
+  <data key="d2">0</data>
+  <data key="d3">303.15048395875124</data>
+</edge>
+<edge source="bus_79" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1255.0090351158967</data>
+  <data key="d2">0</data>
+  <data key="d3">896.4350250827835</data>
+</edge>
+<edge source="bus_79a" target="bus_79">
+  <data key="d0">bus</data>
+  <data key="d6">0</data>
+  <data key="d2">500</data>
+  <data key="d3">0.0</data>
+  <data key="d4">30</data>
+  <data key="d5">525</data>
+</edge>
+<edge source="bus_79a" target="bus_79b">
+  <data key="d0">bus</data>
+  <data key="d1">1476.2440076697224</data>
+  <data key="d2">500</data>
+  <data key="d3">132.86196069027503</data>
+  <data key="d4">30</data>
+  <data key="d5">530</data>
+</edge>
+<edge source="bus_79a" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1377.7215612461991</data>
+  <data key="d2">0</data>
+  <data key="d3">984.0868294615709</data>
+</edge>
+<edge source="bus_79a" target="bus_33">
+  <data key="d0">walk</data>
+  <data key="d1">1347.7538545824893</data>
+  <data key="d2">0</data>
+  <data key="d3">962.6813247017782</data>
+</edge>
+<edge source="bus_79a" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">1261.4930853953022</data>
+  <data key="d2">0</data>
+  <data key="d3">901.066489568073</data>
+</edge>
+<edge source="bus_79a" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d1">424.4106775422517</data>
+  <data key="d2">0</data>
+  <data key="d3">303.15048395875124</data>
+</edge>
+<edge source="bus_79a" target="bus_85">
+  <data key="d0">walk</data>
+  <data key="d1">491.87519556485563</data>
+  <data key="d2">0</data>
+  <data key="d3">351.33942540346834</data>
+</edge>
+<edge source="bus_79a" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d1">424.41067754225173</data>
+  <data key="d2">0</data>
+  <data key="d3">303.15048395875124</data>
+</edge>
+<edge source="bus_79a" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1255.0090351158967</data>
+  <data key="d2">0</data>
+  <data key="d3">896.4350250827835</data>
+</edge>
+<edge source="bus_79b" target="bus_79a">
+  <data key="d0">bus</data>
+  <data key="d1">1476.2440076697224</data>
+  <data key="d2">500</data>
+  <data key="d3">132.86196069027503</data>
+  <data key="d4">30</data>
+  <data key="d5">530</data>
+</edge>
+<edge source="bus_79b" target="bus_34">
+  <data key="d0">walk</data>
+  <data key="d1">1211.7747652204598</data>
+  <data key="d2">0</data>
+  <data key="d3">865.5534037288999</data>
+</edge>
+<edge source="bus_79b" target="bus_35">
+  <data key="d0">walk</data>
+  <data key="d1">1373.3952584887156</data>
+  <data key="d2">0</data>
+  <data key="d3">980.9966132062256</data>
+</edge>
+<edge source="bus_79b" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">1476.2440076697224</data>
+  <data key="d2">0</data>
+  <data key="d3">1054.4600054783732</data>
+</edge>
+<edge source="bus_79b" target="bus_83">
+  <data key="d0">walk</data>
+  <data key="d1">969.5018601640602</data>
+  <data key="d2">0</data>
+  <data key="d3">692.5013286886144</data>
+</edge>
+<edge source="bus_79b" target="bus_84">
+  <data key="d0">walk</data>
+  <data key="d1">900.0636629012668</data>
+  <data key="d2">0</data>
+  <data key="d3">642.9026163580477</data>
+</edge>
+<edge source="bus_81" target="bus_82">
+  <data key="d0">bus</data>
+  <data key="d1">887.8859954800856</data>
+  <data key="d2">500</data>
+  <data key="d3">79.9097395932077</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_82" target="bus_81">
+  <data key="d0">bus</data>
+  <data key="d1">887.8859954800856</data>
+  <data key="d2">500</data>
+  <data key="d3">79.9097395932077</data>
+  <data key="d4">30</data>
+  <data key="d5">485</data>
+</edge>
+<edge source="bus_82" target="bus_83">
+  <data key="d0">bus</data>
+  <data key="d1">1222.4574866025669</data>
+  <data key="d2">500</data>
+  <data key="d3">110.02117379423102</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_82" target="bus_84">
+  <data key="d0">walk</data>
+  <data key="d1">1262.6809084105732</data>
+  <data key="d2">0</data>
+  <data key="d3">901.9149345789809</data>
+</edge>
+<edge source="bus_83" target="bus_82">
+  <data key="d0">bus</data>
+  <data key="d1">1222.4574866025669</data>
+  <data key="d2">500</data>
+  <data key="d3">110.02117379423102</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_83" target="bus_84">
+  <data key="d0">bus</data>
+  <data key="d1">861.0682853679457</data>
+  <data key="d2">500</data>
+  <data key="d3">77.49614568311512</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_83" target="bus_79b">
+  <data key="d0">walk</data>
+  <data key="d1">969.5018601640602</data>
+  <data key="d2">0</data>
+  <data key="d3">692.5013286886144</data>
+</edge>
+<edge source="bus_84" target="bus_83">
+  <data key="d0">bus</data>
+  <data key="d1">861.0682853679457</data>
+  <data key="d2">500</data>
+  <data key="d3">77.49614568311512</data>
+  <data key="d4">30</data>
+  <data key="d5">495</data>
+</edge>
+<edge source="bus_84" target="bus_85">
+  <data key="d0">bus</data>
+  <data key="d1">1717.364555053891</data>
+  <data key="d2">500</data>
+  <data key="d3">154.5628099548502</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_84" target="bus_79b">
+  <data key="d0">walk</data>
+  <data key="d1">900.0636629012668</data>
+  <data key="d2">0</data>
+  <data key="d3">642.9026163580477</data>
+</edge>
+<edge source="bus_84" target="bus_82">
+  <data key="d0">walk</data>
+  <data key="d1">1262.6809084105732</data>
+  <data key="d2">0</data>
+  <data key="d3">901.9149345789809</data>
+</edge>
+<edge source="bus_85" target="bus_84">
+  <data key="d0">bus</data>
+  <data key="d1">1717.364555053891</data>
+  <data key="d2">500</data>
+  <data key="d3">154.5628099548502</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_85" target="bus_86">
+  <data key="d0">bus</data>
+  <data key="d1">638.566556119703</data>
+  <data key="d2">500</data>
+  <data key="d3">57.470990050773274</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_85" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">1467.7894653071896</data>
+  <data key="d2">0</data>
+  <data key="d3">1048.4210466479926</data>
+</edge>
+<edge source="bus_85" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d1">638.5665561197031</data>
+  <data key="d2">0</data>
+  <data key="d3">456.11896865693086</data>
+</edge>
+<edge source="bus_85" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">491.87519556485563</data>
+  <data key="d2">0</data>
+  <data key="d3">351.33942540346834</data>
+</edge>
+<edge source="bus_85" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">491.87519556485563</data>
+  <data key="d2">0</data>
+  <data key="d3">351.33942540346834</data>
+</edge>
+<edge source="bus_85" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1461.3054150277844</data>
+  <data key="d2">0</data>
+  <data key="d3">1043.7895821627033</data>
+</edge>
+<edge source="bus_86" target="bus_85">
+  <data key="d0">bus</data>
+  <data key="d1">638.566556119703</data>
+  <data key="d2">500</data>
+  <data key="d3">57.470990050773274</data>
+  <data key="d4">30</data>
+  <data key="d5">505</data>
+</edge>
+<edge source="bus_86" target="bus_87">
+  <data key="d0">bus</data>
+  <data key="d1">846.078519198015</data>
+  <data key="d2">500</data>
+  <data key="d3">76.14706672782135</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_86" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1232.8056451895293</data>
+  <data key="d2">0</data>
+  <data key="d3">880.5754608496638</data>
+</edge>
+<edge source="bus_86" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_86" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">839.2020526450901</data>
+  <data key="d2">0</data>
+  <data key="d3">599.4300376036358</data>
+</edge>
+<edge source="bus_86" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_86" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">424.41067754225173</data>
+  <data key="d2">0</data>
+  <data key="d3">303.15048395875124</data>
+</edge>
+<edge source="bus_86" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">424.41067754225173</data>
+  <data key="d2">0</data>
+  <data key="d3">303.15048395875124</data>
+</edge>
+<edge source="bus_86" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_87" target="bus_86">
+  <data key="d0">bus</data>
+  <data key="d1">846.078519198015</data>
+  <data key="d2">500</data>
+  <data key="d3">76.14706672782135</data>
+  <data key="d4">30</data>
+  <data key="d5">510</data>
+</edge>
+<edge source="bus_87" target="bus_88">
+  <data key="d0">bus</data>
+  <data key="d1">452.2469616848013</data>
+  <data key="d2">500</data>
+  <data key="d3">40.702226551632116</data>
+  <data key="d4">30</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_87" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1285.7065281919129</data>
+  <data key="d2">0</data>
+  <data key="d3">918.3618058513664</data>
+</edge>
+<edge source="bus_87" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1035.7961787941654</data>
+  <data key="d2">0</data>
+  <data key="d3">739.8544134244039</data>
+</edge>
+<edge source="bus_87" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">1125.221951032684</data>
+  <data key="d2">0</data>
+  <data key="d3">803.7299650233458</data>
+</edge>
+<edge source="bus_87" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">899.1644803164496</data>
+  <data key="d2">0</data>
+  <data key="d3">642.2603430831783</data>
+</edge>
+<edge source="bus_87" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">452.2469616848013</data>
+  <data key="d2">0</data>
+  <data key="d3">323.0335440605724</data>
+</edge>
+<edge source="bus_87" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">8.145930883651825</data>
+  <data key="d2">0</data>
+  <data key="d3">5.818522059751304</data>
+</edge>
+<edge source="bus_87" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d1">846.078519198015</data>
+  <data key="d2">0</data>
+  <data key="d3">604.3417994271535</data>
+</edge>
+<edge source="bus_87" target="bus_79">
+  <data key="d0">walk</data>
+  <data key="d1">1255.0090351158967</data>
+  <data key="d2">0</data>
+  <data key="d3">896.4350250827835</data>
+</edge>
+<edge source="bus_87" target="bus_79a">
+  <data key="d0">walk</data>
+  <data key="d1">1255.0090351158967</data>
+  <data key="d2">0</data>
+  <data key="d3">896.4350250827835</data>
+</edge>
+<edge source="bus_87" target="bus_85">
+  <data key="d0">walk</data>
+  <data key="d1">1461.3054150277844</data>
+  <data key="d2">0</data>
+  <data key="d3">1043.7895821627033</data>
+</edge>
+<edge source="bus_87" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">1000.599355195044</data>
+  <data key="d2">0</data>
+  <data key="d3">714.7138251393172</data>
+</edge>
+<edge source="bus_88" target="bus_87">
+  <data key="d0">bus</data>
+  <data key="d1">452.2469616848013</data>
+  <data key="d2">500</data>
+  <data key="d3">40.702226551632116</data>
+  <data key="d4">30</data>
+  <data key="d5">515</data>
+</edge>
+<edge source="bus_88" target="bus_89">
+  <data key="d0">bus</data>
+  <data key="d1">560.0977398511975</data>
+  <data key="d2">500</data>
+  <data key="d3">50.40879658660778</data>
+  <data key="d4">30</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_88" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1196.1475838081835</data>
+  <data key="d2">0</data>
+  <data key="d3">854.3911312915598</data>
+</edge>
+<edge source="bus_88" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">867.2486214960226</data>
+  <data key="d2">0</data>
+  <data key="d3">619.4633010685876</data>
+</edge>
+<edge source="bus_88" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">583.5492171093639</data>
+  <data key="d2">0</data>
+  <data key="d3">416.8208693638314</data>
+</edge>
+<edge source="bus_88" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1250.834061087385</data>
+  <data key="d2">0</data>
+  <data key="d3">893.4529007767036</data>
+</edge>
+<edge source="bus_88" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1174.0125564477596</data>
+  <data key="d2">0</data>
+  <data key="d3">838.5803974626855</data>
+</edge>
+<edge source="bus_88" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1395.14944269091</data>
+  <data key="d2">0</data>
+  <data key="d3">996.535316207793</data>
+</edge>
+<edge source="bus_88" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">672.9749893478822</data>
+  <data key="d2">0</data>
+  <data key="d3">480.69642096277306</data>
+</edge>
+<edge source="bus_88" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">446.91751863164814</data>
+  <data key="d2">0</data>
+  <data key="d3">319.2267990226058</data>
+</edge>
+<edge source="bus_88" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="bus_88" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">453.34220215388797</data>
+  <data key="d2">0</data>
+  <data key="d3">323.8158586813486</data>
+</edge>
+<edge source="bus_88" target="bus_78">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_88" target="bus_86">
+  <data key="d0">walk</data>
+  <data key="d1">1292.5442547989783</data>
+  <data key="d2">0</data>
+  <data key="d3">923.2458962849845</data>
+</edge>
+<edge source="bus_88" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1120.6846882057916</data>
+  <data key="d2">0</data>
+  <data key="d3">800.4890630041369</data>
+</edge>
+<edge source="bus_88" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1237.9247355522104</data>
+  <data key="d2">0</data>
+  <data key="d3">884.2319539658647</data>
+</edge>
+<edge source="bus_89" target="bus_88">
+  <data key="d0">bus</data>
+  <data key="d1">560.0977398511975</data>
+  <data key="d2">500</data>
+  <data key="d3">50.40879658660778</data>
+  <data key="d4">30</data>
+  <data key="d5">520</data>
+</edge>
+<edge source="bus_89" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1011.8612083768</data>
+  <data key="d2">0</data>
+  <data key="d3">722.7580059834287</data>
+</edge>
+<edge source="bus_89" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">448.3041758836604</data>
+  <data key="d2">0</data>
+  <data key="d3">320.21726848832884</data>
+</edge>
+<edge source="bus_89" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">155.8252085263942</data>
+  <data key="d2">0</data>
+  <data key="d3">111.30372037599585</data>
+</edge>
+<edge source="bus_89" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">822.2889334157624</data>
+  <data key="d2">0</data>
+  <data key="d3">587.349238154116</data>
+</edge>
+<edge source="bus_89" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">736.54305424833</data>
+  <data key="d2">0</data>
+  <data key="d3">526.10218160595</data>
+</edge>
+<edge source="bus_89" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1326.8762746546272</data>
+  <data key="d2">0</data>
+  <data key="d3">947.7687676104481</data>
+</edge>
+<edge source="bus_89" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">1434.9354895159688</data>
+  <data key="d2">0</data>
+  <data key="d3">1024.953921082835</data>
+</edge>
+<edge source="bus_89" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1190.3867569886916</data>
+  <data key="d2">0</data>
+  <data key="d3">850.2762549919225</data>
+</edge>
+<edge source="bus_89" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">963.0347554932</data>
+  <data key="d2">0</data>
+  <data key="d3">687.8819682094286</data>
+</edge>
+<edge source="bus_89" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">154.07484346452352</data>
+  <data key="d2">0</data>
+  <data key="d3">110.05345961751681</data>
+</edge>
+<edge source="bus_89" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">181.9220572639501</data>
+  <data key="d2">0</data>
+  <data key="d3">129.94432661710724</data>
+</edge>
+<edge source="bus_89" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">560.0977398511975</data>
+  <data key="d2">0</data>
+  <data key="d3">400.0698141794268</data>
+</edge>
+<edge source="bus_89" target="bus_77">
+  <data key="d0">walk</data>
+  <data key="d1">992.453424311392</data>
+  <data key="d2">0</data>
+  <data key="d3">708.8953030795658</data>
+</edge>
+<edge source="bus_89" target="bus_87">
+  <data key="d0">walk</data>
+  <data key="d1">1000.599355195044</data>
+  <data key="d2">0</data>
+  <data key="d3">714.7138251393172</data>
+</edge>
+<edge source="bus_89" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">683.2151860063624</data>
+  <data key="d2">0</data>
+  <data key="d3">488.01084714740176</data>
+</edge>
+<edge source="bus_89" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">732.8873330436668</data>
+  <data key="d2">0</data>
+  <data key="d3">523.4909521740477</data>
+</edge>
+<edge source="bus_91" target="bus_92">
+  <data key="d0">bus</data>
+  <data key="d1">2138.0648034514156</data>
+  <data key="d2">500</data>
+  <data key="d3">192.4258323106274</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_91" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">176.65528750223518</data>
+  <data key="d2">0</data>
+  <data key="d3">126.18234821588229</data>
+</edge>
+<edge source="bus_91" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">865.44466878552</data>
+  <data key="d2">0</data>
+  <data key="d3">618.1747634182286</data>
+</edge>
+<edge source="bus_91" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1463.7883066479553</data>
+  <data key="d2">0</data>
+  <data key="d3">1045.563076177111</data>
+</edge>
+<edge source="bus_91" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">315.45772412630015</data>
+  <data key="d2">0</data>
+  <data key="d3">225.32694580450013</data>
+</edge>
+<edge source="bus_91" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">76.23857097047991</data>
+  <data key="d2">0</data>
+  <data key="d3">54.45612212177137</data>
+</edge>
+<edge source="bus_91" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">57.0085710205717</data>
+  <data key="d2">0</data>
+  <data key="d3">40.72040787183693</data>
+</edge>
+<edge source="bus_91" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">159.3956761212803</data>
+  <data key="d2">0</data>
+  <data key="d3">113.85405437234309</data>
+</edge>
+<edge source="bus_91" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">159.3956761212803</data>
+  <data key="d2">0</data>
+  <data key="d3">113.85405437234309</data>
+</edge>
+<edge source="bus_92" target="bus_91">
+  <data key="d0">bus</data>
+  <data key="d1">2138.0648034514156</data>
+  <data key="d2">500</data>
+  <data key="d3">192.4258323106274</data>
+  <data key="d4">30</data>
+  <data key="d5">490</data>
+</edge>
+<edge source="bus_92" target="bus_93">
+  <data key="d0">bus</data>
+  <data key="d1">758.4529341099764</data>
+  <data key="d2">500</data>
+  <data key="d3">68.26076406989787</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_92" target="taxi_e8">
+  <data key="d0">walk</data>
+  <data key="d1">696.7360567161892</data>
+  <data key="d2">0</data>
+  <data key="d3">497.6686119401352</data>
+</edge>
+<edge source="bus_93" target="bus_92">
+  <data key="d0">bus</data>
+  <data key="d1">758.4529341099764</data>
+  <data key="d2">500</data>
+  <data key="d3">68.26076406989787</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+</edge>
+<edge source="bus_93" target="taxi_e8">
+  <data key="d0">walk</data>
+  <data key="d1">1326.1711747595234</data>
+  <data key="d2">0</data>
+  <data key="d3">947.265124828231</data>
+</edge>
+<edge source="taxi_s1" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1442.650142952867</data>
+  <data key="d2">0</data>
+  <data key="d3">1030.4643878234765</data>
+</edge>
+<edge source="taxi_s1" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">794.8805811757385</data>
+  <data key="d2">0</data>
+  <data key="d3">567.7718436969561</data>
+</edge>
+<edge source="taxi_s1" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">224.9656137217001</data>
+  <data key="d2">0</data>
+  <data key="d3">160.68972408692866</data>
+</edge>
+<edge source="taxi_s1" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">316.95113864334314</data>
+  <data key="d2">0</data>
+  <data key="d3">226.39367045953082</data>
+</edge>
+<edge source="taxi_s1" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">777.6911089607087</data>
+  <data key="d2">0</data>
+  <data key="d3">555.493649257649</data>
+</edge>
+<edge source="taxi_s1" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">1197.2226717929982</data>
+  <data key="d2">0</data>
+  <data key="d3">855.159051280713</data>
+</edge>
+<edge source="taxi_s1" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">316.95113864334314</data>
+  <data key="d2">0</data>
+  <data key="d3">226.39367045953082</data>
+</edge>
+<edge source="taxi_s1" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">777.6911089607087</data>
+  <data key="d2">0</data>
+  <data key="d3">555.493649257649</data>
+</edge>
+<edge source="taxi_s1" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">1197.2226717929982</data>
+  <data key="d2">0</data>
+  <data key="d3">855.159051280713</data>
+</edge>
+<edge source="taxi_s1" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1035.6617292864519</data>
+  <data key="d2">0</data>
+  <data key="d3">739.7583780617514</data>
+</edge>
+<edge source="taxi_s1" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1328.1957624032295</data>
+  <data key="d2">0</data>
+  <data key="d3">948.7112588594497</data>
+</edge>
+<edge source="taxi_s1" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">44.76522354757753</data>
+  <data key="d2">0</data>
+  <data key="d3">31.97515967684109</data>
+</edge>
+<edge source="taxi_s1" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">169.09298066714456</data>
+  <data key="d2">0</data>
+  <data key="d3">120.78070047653183</data>
+</edge>
+<edge source="taxi_s1" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">147.04798126049468</data>
+  <data key="d2">0</data>
+  <data key="d3">105.03427232892477</data>
+</edge>
+<edge source="taxi_s1" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">999.3270675725457</data>
+  <data key="d2">0</data>
+  <data key="d3">713.8050482661041</data>
+</edge>
+<edge source="taxi_s1" target="1333526368">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e1" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">124.17328184849491</data>
+  <data key="d2">0</data>
+  <data key="d3">88.69520132035352</data>
+</edge>
+<edge source="taxi_e1" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">812.9626631317795</data>
+  <data key="d2">0</data>
+  <data key="d3">580.6876165226997</data>
+</edge>
+<edge source="taxi_e1" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1397.7777631928466</data>
+  <data key="d2">0</data>
+  <data key="d3">998.4126879948905</data>
+</edge>
+<edge source="taxi_e1" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">259.7512452741273</data>
+  <data key="d2">0</data>
+  <data key="d3">185.5366037672338</data>
+</edge>
+<edge source="taxi_e1" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1481.2222020614988</data>
+  <data key="d2">0</data>
+  <data key="d3">1058.0158586153564</data>
+</edge>
+<edge source="taxi_e1" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">76.23857097047991</data>
+  <data key="d2">0</data>
+  <data key="d3">54.45612212177137</data>
+</edge>
+<edge source="taxi_e1" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">19.22999994990821</data>
+  <data key="d2">0</data>
+  <data key="d3">13.735714249934436</data>
+</edge>
+<edge source="taxi_e1" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">83.15710515080036</data>
+  <data key="d2">0</data>
+  <data key="d3">59.39793225057169</data>
+</edge>
+<edge source="taxi_e1" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">83.15710515080036</data>
+  <data key="d2">0</data>
+  <data key="d3">59.39793225057169</data>
+</edge>
+<edge source="taxi_e1" target="905384162">
+  <data key="d0">taxi</data>
+  <data key="d1">198.20590165559634</data>
+  <data key="d3">14.270824919202935</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s2" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">1487.4153665004446</data>
+  <data key="d2">0</data>
+  <data key="d3">1062.4395475003178</data>
+</edge>
+<edge source="taxi_s2" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">839.645804723316</data>
+  <data key="d2">0</data>
+  <data key="d3">599.7470033737972</data>
+</edge>
+<edge source="taxi_s2" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">227.40688241151747</data>
+  <data key="d2">0</data>
+  <data key="d3">162.4334874367982</data>
+</edge>
+<edge source="taxi_s2" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">272.1859150957656</data>
+  <data key="d2">0</data>
+  <data key="d3">194.41851078268974</data>
+</edge>
+<edge source="taxi_s2" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">732.9258854131311</data>
+  <data key="d2">0</data>
+  <data key="d3">523.518489580808</data>
+</edge>
+<edge source="taxi_s2" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">1152.4574482454207</data>
+  <data key="d2">0</data>
+  <data key="d3">823.183891603872</data>
+</edge>
+<edge source="taxi_s2" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1460.4487667058027</data>
+  <data key="d2">0</data>
+  <data key="d3">1043.1776905041447</data>
+</edge>
+<edge source="taxi_s2" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">272.1859150957656</data>
+  <data key="d2">0</data>
+  <data key="d3">194.41851078268974</data>
+</edge>
+<edge source="taxi_s2" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">732.9258854131311</data>
+  <data key="d2">0</data>
+  <data key="d3">523.518489580808</data>
+</edge>
+<edge source="taxi_s2" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">1152.4574482454207</data>
+  <data key="d2">0</data>
+  <data key="d3">823.183891603872</data>
+</edge>
+<edge source="taxi_s2" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1460.4487667058027</data>
+  <data key="d2">0</data>
+  <data key="d3">1043.1776905041447</data>
+</edge>
+<edge source="taxi_s2" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1080.4269528340294</data>
+  <data key="d2">0</data>
+  <data key="d3">771.7335377385925</data>
+</edge>
+<edge source="taxi_s2" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1354.8202558572787</data>
+  <data key="d2">0</data>
+  <data key="d3">967.7287541837705</data>
+</edge>
+<edge source="taxi_s2" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">44.76522354757753</data>
+  <data key="d2">0</data>
+  <data key="d3">31.97515967684109</data>
+</edge>
+<edge source="taxi_s2" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">124.32775711956702</data>
+  <data key="d2">0</data>
+  <data key="d3">88.80554079969073</data>
+</edge>
+<edge source="taxi_s2" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">102.28275771291716</data>
+  <data key="d2">0</data>
+  <data key="d3">73.05911265208368</data>
+</edge>
+<edge source="taxi_s2" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1044.0922911201233</data>
+  <data key="d2">0</data>
+  <data key="d3">745.7802079429453</data>
+</edge>
+<edge source="taxi_s2" target="1333526364">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e2" target="bus_23">
+  <data key="d0">walk</data>
+  <data key="d1">589.8843797602799</data>
+  <data key="d2">0</data>
+  <data key="d3">421.3459855430571</data>
+</edge>
+<edge source="taxi_e2" target="bus_24">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="taxi_e2" target="bus_25">
+  <data key="d0">walk</data>
+  <data key="d1">488.26498092517136</data>
+  <data key="d2">0</data>
+  <data key="d3">348.76070066083673</data>
+</edge>
+<edge source="taxi_e2" target="bus_35">
+  <data key="d0">walk</data>
+  <data key="d1">753.7119101641246</data>
+  <data key="d2">0</data>
+  <data key="d3">538.3656501172319</data>
+</edge>
+<edge source="taxi_e2" target="bus_36">
+  <data key="d0">walk</data>
+  <data key="d1">212.9681124126207</data>
+  <data key="d2">0</data>
+  <data key="d3">152.1200802947291</data>
+</edge>
+<edge source="taxi_e2" target="bus_37">
+  <data key="d0">walk</data>
+  <data key="d1">488.26498092517136</data>
+  <data key="d2">0</data>
+  <data key="d3">348.76070066083673</data>
+</edge>
+<edge source="taxi_e2" target="6550734092">
+  <data key="d0">taxi</data>
+  <data key="d1">2876.659552535661</data>
+  <data key="d3">207.1194877825676</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s3" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">946.9081676149677</data>
+  <data key="d2">0</data>
+  <data key="d3">676.3629768678342</data>
+</edge>
+<edge source="taxi_s3" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">163.86989974700782</data>
+  <data key="d2">0</data>
+  <data key="d3">117.04992839071988</data>
+</edge>
+<edge source="taxi_s3" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">209.94586754112848</data>
+  <data key="d2">0</data>
+  <data key="d3">149.9613339579489</data>
+</edge>
+<edge source="taxi_s3" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">663.1444712516585</data>
+  <data key="d2">0</data>
+  <data key="d3">473.67462232261323</data>
+</edge>
+<edge source="taxi_s3" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">1034.9581034809999</data>
+  <data key="d2">0</data>
+  <data key="d3">739.2557882007143</data>
+</edge>
+<edge source="taxi_s3" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1346.1138808754097</data>
+  <data key="d2">0</data>
+  <data key="d3">961.509914911007</data>
+</edge>
+<edge source="taxi_s3" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">209.94586754112848</data>
+  <data key="d2">0</data>
+  <data key="d3">149.9613339579489</data>
+</edge>
+<edge source="taxi_s3" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">663.1444712516585</data>
+  <data key="d2">0</data>
+  <data key="d3">473.67462232261323</data>
+</edge>
+<edge source="taxi_s3" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">1034.9581034809999</data>
+  <data key="d2">0</data>
+  <data key="d3">739.2557882007143</data>
+</edge>
+<edge source="taxi_s3" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1346.1138808754097</data>
+  <data key="d2">0</data>
+  <data key="d3">961.509914911007</data>
+</edge>
+<edge source="taxi_s3" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1187.689315725681</data>
+  <data key="d2">0</data>
+  <data key="d3">848.3495112326293</data>
+</edge>
+<edge source="taxi_s3" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1291.283273192769</data>
+  <data key="d2">0</data>
+  <data key="d3">922.3451951376923</data>
+</edge>
+<edge source="taxi_s3" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">169.09298066714456</data>
+  <data key="d2">0</data>
+  <data key="d3">120.78070047653183</data>
+</edge>
+<edge source="taxi_s3" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">124.32775711956702</data>
+  <data key="d2">0</data>
+  <data key="d3">88.80554079969073</data>
+</edge>
+<edge source="taxi_s3" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">40.04271015828001</data>
+  <data key="d2">0</data>
+  <data key="d3">28.601935827342867</data>
+</edge>
+<edge source="taxi_s3" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1151.354654011775</data>
+  <data key="d2">0</data>
+  <data key="d3">822.3961814369821</data>
+</edge>
+<edge source="taxi_s3" target="4450022882">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e3" target="bus_49">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="taxi_e3" target="4966382802">
+  <data key="d0">taxi</data>
+  <data key="d1">63.70165278513902</data>
+  <data key="d3">4.586519000530009</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s4" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">941.9285624362333</data>
+  <data key="d2">0</data>
+  <data key="d3">672.806116025881</data>
+</edge>
+<edge source="taxi_s4" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">196.71469895442357</data>
+  <data key="d2">0</data>
+  <data key="d3">140.5104992531597</data>
+</edge>
+<edge source="taxi_s4" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">169.90315738284846</data>
+  <data key="d2">0</data>
+  <data key="d3">121.35939813060605</data>
+</edge>
+<edge source="taxi_s4" target="bus_42">
+  <data key="d0">walk</data>
+  <data key="d1">630.6431277002139</data>
+  <data key="d2">0</data>
+  <data key="d3">450.4593769287242</data>
+</edge>
+<edge source="taxi_s4" target="bus_43">
+  <data key="d0">walk</data>
+  <data key="d1">1050.1746905325035</data>
+  <data key="d2">0</data>
+  <data key="d3">750.1247789517882</data>
+</edge>
+<edge source="taxi_s4" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d1">1358.1660089928855</data>
+  <data key="d2">0</data>
+  <data key="d3">970.1185778520611</data>
+</edge>
+<edge source="taxi_s4" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">169.90315738284846</data>
+  <data key="d2">0</data>
+  <data key="d3">121.35939813060605</data>
+</edge>
+<edge source="taxi_s4" target="bus_52">
+  <data key="d0">walk</data>
+  <data key="d1">630.6431277002139</data>
+  <data key="d2">0</data>
+  <data key="d3">450.4593769287242</data>
+</edge>
+<edge source="taxi_s4" target="bus_53">
+  <data key="d0">walk</data>
+  <data key="d1">1050.1746905325035</data>
+  <data key="d2">0</data>
+  <data key="d3">750.1247789517882</data>
+</edge>
+<edge source="taxi_s4" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d1">1358.1660089928855</data>
+  <data key="d2">0</data>
+  <data key="d3">970.1185778520611</data>
+</edge>
+<edge source="taxi_s4" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">1182.7097105469466</data>
+  <data key="d2">0</data>
+  <data key="d3">844.7926503906762</data>
+</edge>
+<edge source="taxi_s4" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1324.1280724001847</data>
+  <data key="d2">0</data>
+  <data key="d3">945.8057660001319</data>
+</edge>
+<edge source="taxi_s4" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">147.04798126049468</data>
+  <data key="d2">0</data>
+  <data key="d3">105.03427232892477</data>
+</edge>
+<edge source="taxi_s4" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">102.28275771291716</data>
+  <data key="d2">0</data>
+  <data key="d3">73.05911265208368</data>
+</edge>
+<edge source="taxi_s4" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">40.04271015828001</data>
+  <data key="d2">0</data>
+  <data key="d3">28.601935827342867</data>
+</edge>
+<edge source="taxi_s4" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1146.3750488330404</data>
+  <data key="d2">0</data>
+  <data key="d3">818.8393205950289</data>
+</edge>
+<edge source="taxi_s4" target="4450022875">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e4" target="bus_47">
+  <data key="d0">walk</data>
+  <data key="d1">1436.3291494789246</data>
+  <data key="d2">0</data>
+  <data key="d3">1025.9493924849462</data>
+</edge>
+<edge source="taxi_e4" target="bus_57">
+  <data key="d0">walk</data>
+  <data key="d1">1436.3291494789246</data>
+  <data key="d2">0</data>
+  <data key="d3">1025.9493924849462</data>
+</edge>
+<edge source="taxi_e4" target="4982794878">
+  <data key="d0">taxi</data>
+  <data key="d1">27.340013054284537</data>
+  <data key="d3">1.9684809399084866</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s5" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1130.1458614736127</data>
+  <data key="d2">0</data>
+  <data key="d3">807.2470439097234</data>
+</edge>
+<edge source="taxi_s5" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">537.1354710964276</data>
+  <data key="d2">0</data>
+  <data key="d3">383.6681936403055</data>
+</edge>
+<edge source="taxi_s5" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">204.44648639680702</data>
+  <data key="d2">0</data>
+  <data key="d3">146.03320456914787</data>
+</edge>
+<edge source="taxi_s5" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">987.4847542647672</data>
+  <data key="d2">0</data>
+  <data key="d3">705.3462530462623</data>
+</edge>
+<edge source="taxi_s5" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">1316.2782062158888</data>
+  <data key="d2">0</data>
+  <data key="d3">940.1987187256349</data>
+</edge>
+<edge source="taxi_s5" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">1316.2782062158888</data>
+  <data key="d2">0</data>
+  <data key="d3">940.1987187256349</data>
+</edge>
+<edge source="taxi_s5" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">53.327868241967835</data>
+  <data key="d2">0</data>
+  <data key="d3">38.09133445854845</data>
+</edge>
+<edge source="taxi_s5" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">643.6610886482647</data>
+  <data key="d2">0</data>
+  <data key="d3">459.7579204630462</data>
+</edge>
+<edge source="taxi_s5" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d1">1254.6539514587137</data>
+  <data key="d2">0</data>
+  <data key="d3">896.1813938990813</data>
+</edge>
+<edge source="taxi_s5" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">1374.0849619896837</data>
+  <data key="d2">0</data>
+  <data key="d3">981.4892585640599</data>
+</edge>
+<edge source="taxi_s5" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">1146.7329604941924</data>
+  <data key="d2">0</data>
+  <data key="d3">819.0949717815661</data>
+</edge>
+<edge source="taxi_s5" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">607.2122750383975</data>
+  <data key="d2">0</data>
+  <data key="d3">433.72305359885536</data>
+</edge>
+<edge source="taxi_s5" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">673.7671695741434</data>
+  <data key="d2">0</data>
+  <data key="d3">481.262263981531</data>
+</edge>
+<edge source="taxi_s5" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1120.6846882057916</data>
+  <data key="d2">0</data>
+  <data key="d3">800.4890630041369</data>
+</edge>
+<edge source="taxi_s5" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1120.6846882057916</data>
+  <data key="d2">0</data>
+  <data key="d3">800.4890630041369</data>
+</edge>
+<edge source="taxi_s5" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">683.2151860063624</data>
+  <data key="d2">0</data>
+  <data key="d3">488.01084714740176</data>
+</edge>
+<edge source="taxi_s5" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">999.3270675725457</data>
+  <data key="d2">0</data>
+  <data key="d3">713.8050482661041</data>
+</edge>
+<edge source="taxi_s5" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">1044.0922911201233</data>
+  <data key="d2">0</data>
+  <data key="d3">745.7802079429453</data>
+</edge>
+<edge source="taxi_s5" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">1151.354654011775</data>
+  <data key="d2">0</data>
+  <data key="d3">822.3961814369821</data>
+</edge>
+<edge source="taxi_s5" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">1146.3750488330404</data>
+  <data key="d2">0</data>
+  <data key="d3">818.8393205950289</data>
+</edge>
+<edge source="taxi_s5" target="taxi_e6">
+  <data key="d0">walk</data>
+  <data key="d1">1032.7969463969973</data>
+  <data key="d2">0</data>
+  <data key="d3">737.7121045692838</data>
+</edge>
+<edge source="taxi_s5" target="5061185529">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e5" target="bus_65">
+  <data key="d0">walk</data>
+  <data key="d1">1410.2077316317714</data>
+  <data key="d2">0</data>
+  <data key="d3">1007.2912368798368</data>
+</edge>
+<edge source="taxi_e5" target="bus_66">
+  <data key="d0">walk</data>
+  <data key="d1">997.1490391529193</data>
+  <data key="d2">0</data>
+  <data key="d3">712.2493136806567</data>
+</edge>
+<edge source="taxi_e5" target="bus_67">
+  <data key="d0">walk</data>
+  <data key="d1">170.54610485964105</data>
+  <data key="d2">0</data>
+  <data key="d3">121.81864632831504</data>
+</edge>
+<edge source="taxi_e5" target="5061185140">
+  <data key="d0">taxi</data>
+  <data key="d1">187.16800852715824</data>
+  <data key="d3">13.476096613955393</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s6" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">119.64671648166346</data>
+  <data key="d2">0</data>
+  <data key="d3">85.46194034404533</data>
+</edge>
+<edge source="taxi_s6" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">808.4360977649483</data>
+  <data key="d2">0</data>
+  <data key="d3">577.4543555463916</data>
+</edge>
+<edge source="taxi_s6" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1406.7797356273836</data>
+  <data key="d2">0</data>
+  <data key="d3">1004.8426683052741</data>
+</edge>
+<edge source="taxi_s6" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">258.44915310572844</data>
+  <data key="d2">0</data>
+  <data key="d3">184.60653793266317</data>
+</edge>
+<edge source="taxi_s6" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">57.0085710205717</data>
+  <data key="d2">0</data>
+  <data key="d3">40.72040787183693</data>
+</edge>
+<edge source="taxi_s6" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">19.22999994990821</data>
+  <data key="d2">0</data>
+  <data key="d3">13.735714249934436</data>
+</edge>
+<edge source="taxi_s6" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">102.38710510070857</data>
+  <data key="d2">0</data>
+  <data key="d3">73.13364650050612</data>
+</edge>
+<edge source="taxi_s6" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">102.38710510070857</data>
+  <data key="d2">0</data>
+  <data key="d3">73.13364650050612</data>
+</edge>
+<edge source="taxi_s6" target="248884161">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e6" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">1392.6926990569298</data>
+  <data key="d2">0</data>
+  <data key="d3">994.7804993263785</data>
+</edge>
+<edge source="taxi_e6" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">989.7857564493131</data>
+  <data key="d2">0</data>
+  <data key="d3">706.9898260352237</data>
+</edge>
+<edge source="taxi_e6" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">761.6060688716368</data>
+  <data key="d2">0</data>
+  <data key="d3">544.004334908312</data>
+</edge>
+<edge source="taxi_e6" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">1208.5800131953988</data>
+  <data key="d2">0</data>
+  <data key="d3">863.2714379967135</data>
+</edge>
+<edge source="taxi_e6" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">990.0994926338908</data>
+  <data key="d2">0</data>
+  <data key="d3">707.213923309922</data>
+</edge>
+<edge source="taxi_e6" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d1">1139.362106224957</data>
+  <data key="d2">0</data>
+  <data key="d3">813.8300758749693</data>
+</edge>
+<edge source="taxi_e6" target="bus_71">
+  <data key="d0">walk</data>
+  <data key="d1">1088.7934295628888</data>
+  <data key="d2">0</data>
+  <data key="d3">777.7095925449206</data>
+</edge>
+<edge source="taxi_e6" target="bus_72">
+  <data key="d0">walk</data>
+  <data key="d1">836.1894583058765</data>
+  <data key="d2">0</data>
+  <data key="d3">597.2781845041976</data>
+</edge>
+<edge source="taxi_e6" target="bus_73">
+  <data key="d0">walk</data>
+  <data key="d1">628.0471605742506</data>
+  <data key="d2">0</data>
+  <data key="d3">448.6051146958933</data>
+</edge>
+<edge source="taxi_e6" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">672.1802966331184</data>
+  <data key="d2">0</data>
+  <data key="d3">480.1287833093703</data>
+</edge>
+<edge source="taxi_e6" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">898.2377673493525</data>
+  <data key="d2">0</data>
+  <data key="d3">641.5984052495376</data>
+</edge>
+<edge source="taxi_e6" target="bus_76">
+  <data key="d0">walk</data>
+  <data key="d1">1237.9247355522104</data>
+  <data key="d2">0</data>
+  <data key="d3">884.2319539658647</data>
+</edge>
+<edge source="taxi_e6" target="bus_88">
+  <data key="d0">walk</data>
+  <data key="d1">1237.9247355522104</data>
+  <data key="d2">0</data>
+  <data key="d3">884.2319539658647</data>
+</edge>
+<edge source="taxi_e6" target="bus_89">
+  <data key="d0">walk</data>
+  <data key="d1">732.8873330436668</data>
+  <data key="d2">0</data>
+  <data key="d3">523.4909521740477</data>
+</edge>
+<edge source="taxi_e6" target="taxi_s5">
+  <data key="d0">walk</data>
+  <data key="d1">1032.7969463969973</data>
+  <data key="d2">0</data>
+  <data key="d3">737.7121045692838</data>
+</edge>
+<edge source="taxi_e6" target="1364650732">
+  <data key="d0">taxi</data>
+  <data key="d1">767.3702964381663</data>
+  <data key="d3">55.250661343547975</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s7" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">207.33038699929529</data>
+  <data key="d2">0</data>
+  <data key="d3">148.0931335709252</data>
+</edge>
+<edge source="taxi_s7" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">895.3657097773672</data>
+  <data key="d2">0</data>
+  <data key="d3">639.5469355552623</data>
+</edge>
+<edge source="taxi_s7" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1477.457131546891</data>
+  <data key="d2">0</data>
+  <data key="d3">1055.3265225334937</data>
+</edge>
+<edge source="taxi_s7" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">182.53335182143852</data>
+  <data key="d2">0</data>
+  <data key="d3">130.3809655867418</data>
+</edge>
+<edge source="taxi_s7" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1458.044905755596</data>
+  <data key="d2">0</data>
+  <data key="d3">1041.4606469682828</data>
+</edge>
+<edge source="taxi_s7" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">159.3956761212803</data>
+  <data key="d2">0</data>
+  <data key="d3">113.85405437234309</data>
+</edge>
+<edge source="taxi_s7" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">83.15710515080036</data>
+  <data key="d2">0</data>
+  <data key="d3">59.39793225057169</data>
+</edge>
+<edge source="taxi_s7" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">102.38710510070857</data>
+  <data key="d2">0</data>
+  <data key="d3">73.13364650050612</data>
+</edge>
+<edge source="taxi_s7" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="taxi_s7" target="248884159">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e7" target="2509060293">
+  <data key="d0">taxi</data>
+  <data key="d1">203.09912908818103</data>
+  <data key="d3">14.623137294349034</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_s8" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">207.33038699929529</data>
+  <data key="d2">0</data>
+  <data key="d3">148.0931335709252</data>
+</edge>
+<edge source="taxi_s8" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">895.3657097773672</data>
+  <data key="d2">0</data>
+  <data key="d3">639.5469355552623</data>
+</edge>
+<edge source="taxi_s8" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">1477.457131546891</data>
+  <data key="d2">0</data>
+  <data key="d3">1055.3265225334937</data>
+</edge>
+<edge source="taxi_s8" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">182.53335182143852</data>
+  <data key="d2">0</data>
+  <data key="d3">130.3809655867418</data>
+</edge>
+<edge source="taxi_s8" target="bus_32">
+  <data key="d0">walk</data>
+  <data key="d1">1458.044905755596</data>
+  <data key="d2">0</data>
+  <data key="d3">1041.4606469682828</data>
+</edge>
+<edge source="taxi_s8" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">159.3956761212803</data>
+  <data key="d2">0</data>
+  <data key="d3">113.85405437234309</data>
+</edge>
+<edge source="taxi_s8" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">83.15710515080036</data>
+  <data key="d2">0</data>
+  <data key="d3">59.39793225057169</data>
+</edge>
+<edge source="taxi_s8" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">102.38710510070857</data>
+  <data key="d2">0</data>
+  <data key="d3">73.13364650050612</data>
+</edge>
+<edge source="taxi_s8" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d2">0</data>
+  <data key="d3">0.0</data>
+</edge>
+<edge source="taxi_s8" target="248884159">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="taxi_e8" target="bus_92">
+  <data key="d0">walk</data>
+  <data key="d1">696.7360567161892</data>
+  <data key="d2">0</data>
+  <data key="d3">497.6686119401352</data>
+</edge>
+<edge source="taxi_e8" target="bus_93">
+  <data key="d0">walk</data>
+  <data key="d1">1326.1711747595234</data>
+  <data key="d2">0</data>
+  <data key="d3">947.265124828231</data>
+</edge>
+<edge source="taxi_e8" target="1409371974">
+  <data key="d0">taxi</data>
+  <data key="d1">24.156871236556817</data>
+  <data key="d3">1.7392947290320908</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1333526368" target="taxi_s1">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1333526368" target="4983399805">
+  <data key="d0">taxi</data>
+  <data key="d1">627.214649964281</data>
+  <data key="d3">45.159454797428225</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1333526368" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">224.96561372170004</data>
+  <data key="d3">160.6897240869286</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526368" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">44.76522354757753</data>
+  <data key="d3">31.97515967684109</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526368" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">169.09298066714456</data>
+  <data key="d3">120.78070047653183</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526368" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">147.04798126049468</data>
+  <data key="d3">105.03427232892477</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4983399805" target="1333526368">
+  <data key="d0">taxi</data>
+  <data key="d1">627.214649964281</data>
+  <data key="d3">45.159454797428225</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399805" target="4983399778">
+  <data key="d0">taxi</data>
+  <data key="d1">670.9103993094591</data>
+  <data key="d3">48.305548750281055</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399805" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">171.68817048615017</data>
+  <data key="d3">122.63440749010728</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4983399778" target="4983399805">
+  <data key="d0">taxi</data>
+  <data key="d1">670.9103993094591</data>
+  <data key="d3">48.305548750281055</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399778" target="4983399750">
+  <data key="d0">taxi</data>
+  <data key="d1">815.7845523526802</data>
+  <data key="d3">58.73648776939297</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399778" target="bus_14">
+  <data key="d0">walk</data>
+  <data key="d1">144.52509367912725</data>
+  <data key="d3">103.23220977080518</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4983399778" target="bus_74">
+  <data key="d0">walk</data>
+  <data key="d1">233.95086591764567</data>
+  <data key="d3">167.10776136974692</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4983399778" target="bus_75">
+  <data key="d0">walk</data>
+  <data key="d1">281.156792156843</data>
+  <data key="d3">200.8262801120307</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4983399750" target="4983399778">
+  <data key="d0">taxi</data>
+  <data key="d1">815.7845523526802</data>
+  <data key="d3">58.73648776939297</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399750" target="4983399730">
+  <data key="d0">taxi</data>
+  <data key="d1">579.1468037602028</data>
+  <data key="d3">41.6985698707346</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399750" target="bus_13">
+  <data key="d0">walk</data>
+  <data key="d1">104.36480115923533</data>
+  <data key="d3">74.54628654231095</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4983399730" target="4983399750">
+  <data key="d0">taxi</data>
+  <data key="d1">579.1468037602028</data>
+  <data key="d3">41.6985698707346</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399730" target="905384162">
+  <data key="d0">taxi</data>
+  <data key="d1">770.3767421065153</data>
+  <data key="d3">55.467125431669096</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4983399730" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">97.63912307936724</data>
+  <data key="d3">69.7422307709766</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="905384162" target="4983399730">
+  <data key="d0">taxi</data>
+  <data key="d1">770.3767421065153</data>
+  <data key="d3">55.467125431669096</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="905384162" target="taxi_e1">
+  <data key="d0">taxi</data>
+  <data key="d1">198.20590165559634</data>
+  <data key="d3">14.270824919202935</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="905384162" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">185.87107346919066</data>
+  <data key="d3">132.76505247799335</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="905384162" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">108.28213595214191</data>
+  <data key="d3">77.34438282295851</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="905384162" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">260.9011054095249</data>
+  <data key="d3">186.35793243537495</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="905384162" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">203.89253438895318</data>
+  <data key="d3">145.637524563538</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="905384162" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">110.75943429079744</data>
+  <data key="d3">79.11388163628389</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="905384162" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">110.75943429079744</data>
+  <data key="d3">79.11388163628389</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526364" target="taxi_s2">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1333526364" target="12317853864">
+  <data key="d0">taxi</data>
+  <data key="d1">1389.454871214703</data>
+  <data key="d3">100.04075072745862</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1333526364" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">227.4068824115175</data>
+  <data key="d3">162.43348743679823</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526364" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">272.1859150957656</data>
+  <data key="d3">194.41851078268974</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526364" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">272.1859150957656</data>
+  <data key="d3">194.41851078268974</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526364" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">44.76522354757752</data>
+  <data key="d3">31.975159676841088</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526364" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">124.32775711956702</data>
+  <data key="d3">88.80554079969073</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1333526364" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">102.28275771291716</data>
+  <data key="d3">73.05911265208368</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12317853864" target="1333526364">
+  <data key="d0">taxi</data>
+  <data key="d1">1389.454871214703</data>
+  <data key="d3">100.04075072745862</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="12317853864" target="4362382316">
+  <data key="d0">taxi</data>
+  <data key="d1">1600.9499663286915</data>
+  <data key="d3">115.26839757566579</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="12317853864" target="4450022875">
+  <data key="d0">taxi</data>
+  <data key="d1">1144.0167468974312</data>
+  <data key="d3">82.36920577661505</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="12317853864" target="4982795228">
+  <data key="d0">taxi</data>
+  <data key="d1">725.1186271293112</data>
+  <data key="d3">52.20854115331041</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4362382316" target="12317853864">
+  <data key="d0">taxi</data>
+  <data key="d1">1600.9499663286915</data>
+  <data key="d3">115.26839757566579</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4362382316" target="1349015726">
+  <data key="d0">taxi</data>
+  <data key="d1">2112.6703574778785</data>
+  <data key="d3">152.11226573840725</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1349015726" target="4362382316">
+  <data key="d0">taxi</data>
+  <data key="d1">2112.6703574778785</data>
+  <data key="d3">152.11226573840725</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1349015726" target="6550734092">
+  <data key="d0">taxi</data>
+  <data key="d1">2714.489747932381</data>
+  <data key="d3">195.4432618511314</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6550734092" target="1349015726">
+  <data key="d0">taxi</data>
+  <data key="d1">2714.489747932381</data>
+  <data key="d3">195.4432618511314</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6550734092" target="taxi_e2">
+  <data key="d0">taxi</data>
+  <data key="d1">2876.659552535661</data>
+  <data key="d3">207.1194877825676</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4450022882" target="taxi_s3">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4450022882" target="4868783266">
+  <data key="d0">taxi</data>
+  <data key="d1">1346.1138808754094</data>
+  <data key="d3">96.92019942302947</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4450022882" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">163.86989974700782</data>
+  <data key="d3">117.04992839071988</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022882" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">209.94586754112848</data>
+  <data key="d3">149.9613339579489</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022882" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">209.94586754112848</data>
+  <data key="d3">149.9613339579489</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022882" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">169.09298066714456</data>
+  <data key="d3">120.78070047653183</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022882" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">124.32775711956702</data>
+  <data key="d3">88.80554079969073</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022882" target="taxi_s4">
+  <data key="d0">walk</data>
+  <data key="d1">40.04271015828001</data>
+  <data key="d3">28.601935827342867</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4868783266" target="4450022882">
+  <data key="d0">taxi</data>
+  <data key="d1">1346.1138808754094</data>
+  <data key="d3">96.92019942302947</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4868783266" target="4966875685">
+  <data key="d0">taxi</data>
+  <data key="d1">1190.0189769151912</data>
+  <data key="d3">85.68136633789376</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4868783266" target="bus_44">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4868783266" target="bus_54">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4966875685" target="4868783266">
+  <data key="d0">taxi</data>
+  <data key="d1">1190.0189769151912</data>
+  <data key="d3">85.68136633789376</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4966875685" target="6315759957">
+  <data key="d0">taxi</data>
+  <data key="d1">2000.2316813018006</data>
+  <data key="d3">144.01668105372963</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6315759957" target="4966875685">
+  <data key="d0">taxi</data>
+  <data key="d1">2000.2316813018006</data>
+  <data key="d3">144.01668105372963</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6315759957" target="4868783016">
+  <data key="d0">taxi</data>
+  <data key="d1">2169.6958442446485</data>
+  <data key="d3">156.2181007856147</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4868783016" target="6315759957">
+  <data key="d0">taxi</data>
+  <data key="d1">2169.6958442446485</data>
+  <data key="d3">156.2181007856147</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4868783016" target="4966382802">
+  <data key="d0">taxi</data>
+  <data key="d1">1621.731321347138</data>
+  <data key="d3">116.76465513699392</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4966382802" target="4868783016">
+  <data key="d0">taxi</data>
+  <data key="d1">1621.731321347138</data>
+  <data key="d3">116.76465513699392</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4966382802" target="taxi_e3">
+  <data key="d0">taxi</data>
+  <data key="d1">63.70165278513902</data>
+  <data key="d3">4.586519000530009</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4966382802" target="bus_49">
+  <data key="d0">walk</data>
+  <data key="d1">63.70165278513902</data>
+  <data key="d3">45.50118056081359</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022875" target="taxi_s4">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4450022875" target="12317853864">
+  <data key="d0">taxi</data>
+  <data key="d1">1144.0167468974312</data>
+  <data key="d3">82.36920577661505</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4450022875" target="bus_16">
+  <data key="d0">walk</data>
+  <data key="d1">196.71469895442362</data>
+  <data key="d3">140.51049925315974</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022875" target="bus_41">
+  <data key="d0">walk</data>
+  <data key="d1">169.90315738284846</data>
+  <data key="d3">121.35939813060605</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022875" target="bus_51">
+  <data key="d0">walk</data>
+  <data key="d1">169.90315738284846</data>
+  <data key="d3">121.35939813060605</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022875" target="taxi_s1">
+  <data key="d0">walk</data>
+  <data key="d1">147.04798126049468</data>
+  <data key="d3">105.03427232892477</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022875" target="taxi_s2">
+  <data key="d0">walk</data>
+  <data key="d1">102.28275771291715</data>
+  <data key="d3">73.05911265208368</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4450022875" target="taxi_s3">
+  <data key="d0">walk</data>
+  <data key="d1">40.04271015828001</data>
+  <data key="d3">28.601935827342867</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4982795228" target="12317853864">
+  <data key="d0">taxi</data>
+  <data key="d1">725.1186271293112</data>
+  <data key="d3">52.20854115331041</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4982795228" target="13146832536">
+  <data key="d0">taxi</data>
+  <data key="d1">1045.6259259337705</data>
+  <data key="d3">75.28506666723148</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="13146832536" target="4982795228">
+  <data key="d0">taxi</data>
+  <data key="d1">1045.6259259337705</data>
+  <data key="d3">75.28506666723148</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="13146832536" target="4982794897">
+  <data key="d0">taxi</data>
+  <data key="d1">663.6496585833128</data>
+  <data key="d3">47.782775417998515</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4982794897" target="13146832536">
+  <data key="d0">taxi</data>
+  <data key="d1">663.6496585833128</data>
+  <data key="d3">47.782775417998515</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4982794897" target="4982794878">
+  <data key="d0">taxi</data>
+  <data key="d1">1131.1783513623468</data>
+  <data key="d3">81.44484129808897</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4982794878" target="4982794897">
+  <data key="d0">taxi</data>
+  <data key="d1">1131.1783513623468</data>
+  <data key="d3">81.44484129808897</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="4982794878" target="taxi_e4">
+  <data key="d0">taxi</data>
+  <data key="d1">27.340013054284537</data>
+  <data key="d3">1.9684809399084866</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185529" target="taxi_s5">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185529" target="5061185487">
+  <data key="d0">taxi</data>
+  <data key="d1">601.7757375437948</data>
+  <data key="d3">43.327853103153224</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185529" target="bus_15">
+  <data key="d0">walk</data>
+  <data key="d1">234.94981349800364</data>
+  <data key="d3">167.8212953557169</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185529" target="bus_61">
+  <data key="d0">walk</data>
+  <data key="d1">11.442517137498063</data>
+  <data key="d3">8.173226526784331</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185487" target="5061185529">
+  <data key="d0">taxi</data>
+  <data key="d1">601.7757375437948</data>
+  <data key="d3">43.327853103153224</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185487" target="5061185444">
+  <data key="d0">taxi</data>
+  <data key="d1">610.9928628104489</data>
+  <data key="d3">43.99148612235231</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185487" target="bus_62">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185444" target="5061185487">
+  <data key="d0">taxi</data>
+  <data key="d1">610.9928628104489</data>
+  <data key="d3">43.99148612235231</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185444" target="5061185197">
+  <data key="d0">taxi</data>
+  <data key="d1">627.2882739791264</data>
+  <data key="d3">45.1647557264971</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185444" target="bus_63">
+  <data key="d0">walk</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185197" target="5061185444">
+  <data key="d0">taxi</data>
+  <data key="d1">627.2882739791264</data>
+  <data key="d3">45.1647557264971</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185197" target="5061185157">
+  <data key="d0">taxi</data>
+  <data key="d1">794.3281037181532</data>
+  <data key="d3">57.19162346770703</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185197" target="bus_64">
+  <data key="d0">walk</data>
+  <data key="d1">13.991068473483992</data>
+  <data key="d3">9.993620338202852</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185197" target="bus_65">
+  <data key="d0">walk</data>
+  <data key="d1">220.82428089431522</data>
+  <data key="d3">157.73162921022518</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185157" target="5061185197">
+  <data key="d0">taxi</data>
+  <data key="d1">794.3281037181532</data>
+  <data key="d3">57.19162346770703</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185157" target="5061185140">
+  <data key="d0">taxi</data>
+  <data key="d1">655.2961038806615</data>
+  <data key="d3">47.18131947940763</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185157" target="bus_66">
+  <data key="d0">walk</data>
+  <data key="d1">159.66892303659787</data>
+  <data key="d3">114.04923074042706</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5061185140" target="5061185157">
+  <data key="d0">taxi</data>
+  <data key="d1">655.2961038806615</data>
+  <data key="d3">47.18131947940763</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185140" target="taxi_e5">
+  <data key="d0">taxi</data>
+  <data key="d1">187.16800852715824</data>
+  <data key="d3">13.476096613955393</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="5061185140" target="bus_67">
+  <data key="d0">walk</data>
+  <data key="d1">30.311356511993324</data>
+  <data key="d3">21.65096893713809</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884161" target="taxi_s6">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="248884161" target="1366338935">
+  <data key="d0">taxi</data>
+  <data key="d1">375.54096867758636</data>
+  <data key="d3">27.03894974478622</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="248884161" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">119.88391963449638</data>
+  <data key="d3">85.63137116749742</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884161" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">255.46188306012874</data>
+  <data key="d3">182.47277361437767</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884161" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">80.52793318447846</data>
+  <data key="d3">57.51995227462747</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884161" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">4.289362213998535</data>
+  <data key="d3">3.0638301528560965</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884161" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">87.44646736479889</data>
+  <data key="d3">62.461762403427784</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884161" target="taxi_s8">
+  <data key="d0">walk</data>
+  <data key="d1">87.44646736479889</data>
+  <data key="d3">62.461762403427784</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1366338935" target="248884161">
+  <data key="d0">taxi</data>
+  <data key="d1">375.54096867758636</data>
+  <data key="d3">27.03894974478622</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366338935" target="1366338805">
+  <data key="d0">taxi</data>
+  <data key="d1">459.01964160475967</data>
+  <data key="d3">33.049414195542695</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366338935" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">251.99149977858622</data>
+  <data key="d3">179.99392841327588</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1366338805" target="1366338935">
+  <data key="d0">taxi</data>
+  <data key="d1">459.01964160475967</data>
+  <data key="d3">33.049414195542695</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366338805" target="10682358785">
+  <data key="d0">taxi</data>
+  <data key="d1">566.7886545389053</data>
+  <data key="d3">40.80878312680118</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366338805" target="bus_12">
+  <data key="d0">walk</data>
+  <data key="d1">265.53952550515316</data>
+  <data key="d3">189.67108964653798</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="10682358785" target="1366338805">
+  <data key="d0">taxi</data>
+  <data key="d1">566.7886545389053</data>
+  <data key="d3">40.80878312680118</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="10682358785" target="1364650732">
+  <data key="d0">taxi</data>
+  <data key="d1">509.80332713468226</data>
+  <data key="d3">36.705839553697125</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1364650732" target="10682358785">
+  <data key="d0">taxi</data>
+  <data key="d1">509.80332713468226</data>
+  <data key="d3">36.705839553697125</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1364650732" target="taxi_e6">
+  <data key="d0">taxi</data>
+  <data key="d1">767.3702964381663</data>
+  <data key="d3">55.250661343547975</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="248884159" target="taxi_s7">
+  <data key="d0">walk</data>
+  <data key="d1">19.67365727249471</data>
+  <data key="d3">14.052612337496223</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884159" target="425690376">
+  <data key="d0">taxi</data>
+  <data key="d1">512.8718908622134</data>
+  <data key="d3">36.92677614207936</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="248884159" target="bus_11">
+  <data key="d0">walk</data>
+  <data key="d1">187.65672972680053</data>
+  <data key="d3">134.04052123342896</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884159" target="bus_31">
+  <data key="d0">walk</data>
+  <data key="d1">198.2117735864744</data>
+  <data key="d3">141.57983827605315</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884159" target="bus_91">
+  <data key="d0">walk</data>
+  <data key="d1">139.72201884878558</data>
+  <data key="d3">99.80144203484684</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884159" target="taxi_e1">
+  <data key="d0">walk</data>
+  <data key="d1">63.483447878305654</data>
+  <data key="d3">45.34531991307547</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884159" target="taxi_s6">
+  <data key="d0">walk</data>
+  <data key="d1">82.71344782821386</data>
+  <data key="d3">59.0810341630099</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="248884159" target="taxi_s8">
+  <data key="d0">taxi</data>
+  <data key="d6">0</data>
+  <data key="d3">0.0</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="248884159" target="1366786550">
+  <data key="d0">taxi</data>
+  <data key="d1">583.7531853413991</data>
+  <data key="d3">42.03022934458073</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="425690376" target="248884159">
+  <data key="d0">taxi</data>
+  <data key="d1">512.8718908622134</data>
+  <data key="d3">36.92677614207936</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="425690376" target="1366776017">
+  <data key="d0">taxi</data>
+  <data key="d1">504.25573750905244</data>
+  <data key="d3">36.306413100651774</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366776017" target="425690376">
+  <data key="d0">taxi</data>
+  <data key="d1">504.25573750905244</data>
+  <data key="d3">36.306413100651774</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366776017" target="6396053802">
+  <data key="d0">taxi</data>
+  <data key="d1">964.8732393485272</data>
+  <data key="d3">69.47087323309395</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6396053802" target="1366776017">
+  <data key="d0">taxi</data>
+  <data key="d1">964.8732393485272</data>
+  <data key="d3">69.47087323309395</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6396053802" target="6396053808">
+  <data key="d0">taxi</data>
+  <data key="d1">453.04210001019305</data>
+  <data key="d3">32.6190312007339</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6396053808" target="6396053802">
+  <data key="d0">taxi</data>
+  <data key="d1">453.04210001019305</data>
+  <data key="d3">32.6190312007339</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="6396053808" target="2509060293">
+  <data key="d0">taxi</data>
+  <data key="d1">1226.501028549749</data>
+  <data key="d3">88.30807405558193</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="2509060293" target="6396053808">
+  <data key="d0">taxi</data>
+  <data key="d1">1226.501028549749</data>
+  <data key="d3">88.30807405558193</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="2509060293" target="taxi_e7">
+  <data key="d0">taxi</data>
+  <data key="d1">203.09912908818103</data>
+  <data key="d3">14.623137294349034</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366786550" target="248884159">
+  <data key="d0">taxi</data>
+  <data key="d1">583.7531853413991</data>
+  <data key="d3">42.03022934458073</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366786550" target="425690354">
+  <data key="d0">taxi</data>
+  <data key="d1">672.3390607714297</data>
+  <data key="d3">48.40841237554294</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="425690354" target="1366786550">
+  <data key="d0">taxi</data>
+  <data key="d1">672.3390607714297</data>
+  <data key="d3">48.40841237554294</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="425690354" target="1366796451">
+  <data key="d0">taxi</data>
+  <data key="d1">616.8181840987945</data>
+  <data key="d3">44.410909255113204</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366796451" target="425690354">
+  <data key="d0">taxi</data>
+  <data key="d1">616.8181840987945</data>
+  <data key="d3">44.410909255113204</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366796451" target="1366796464">
+  <data key="d0">taxi</data>
+  <data key="d1">520.347202143007</data>
+  <data key="d3">37.46499855429651</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366796464" target="1366796451">
+  <data key="d0">taxi</data>
+  <data key="d1">520.347202143007</data>
+  <data key="d3">37.46499855429651</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1366796464" target="1409371974">
+  <data key="d0">taxi</data>
+  <data key="d1">203.00933069339987</data>
+  <data key="d3">14.61667180992479</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1409371974" target="1366796464">
+  <data key="d0">taxi</data>
+  <data key="d1">203.00933069339987</data>
+  <data key="d3">14.61667180992479</data>
+  <data key="d2">5000</data>
+</edge>
+<edge source="1409371974" target="taxi_e8">
+  <data key="d0">taxi</data>
+  <data key="d1">24.156871236556817</data>
+  <data key="d3">1.7392947290320908</data>
+  <data key="d2">5000</data>
+</edge>
+</graph></graphml>
