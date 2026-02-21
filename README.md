@@ -1,83 +1,257 @@
 🚦 Sepra
-Multimodal Time-Dependent Urban Routing Engine
+Multimodal Time-Dependent Urban Routing Engine for Kerman
 
-A backend routing engine for multimodal urban transportation integrating pedestrian, bus, and taxi networks with time-dependent cost modeling.
+A backend decision engine for multimodal urban routing integrating pedestrian, bus, taxi, and ride-hailing networks using real OpenStreetMap street data.
 
-📌 Overview
+📌 Project Architecture
 
-Sepra is a backend routing engine designed for medium-sized cities with limited smart transportation infrastructure.
-It integrates multiple transportation modes into a unified directed graph and computes optimal routes based on time and cost.
+The project is divided into three major stages:
 
-The system is built with a custom time-aware Dijkstra variant and supports:
+Graph Construction (Static Layer)
 
-🚶 Pedestrian routing
+Routing Algorithm & Dynamic Processing
 
-🚌 Public bus network with interval-based scheduling
+Web Application Layer
 
-🚖 Taxi network with dynamic drop points
+🧱 Stage 1 — Graph Construction (Static Layer)
+🗺 Real Street Networks
 
-⏱ Time-dependent traffic adjustment
+Two real-world street graphs are constructed using OSMnx and OpenStreetMap data:
 
-💰 Cost-aware route optimization
+🚶 G_walk → Pedestrian network
 
-🧠 Core Features
-🔹 Multimodal Graph Integration
+🚗 G_drive → Driving network
 
-Separate pedestrian and driving graphs built from OpenStreetMap data
+Both graphs are downloaded directly from OpenStreetMap and represent real streets of Kerman, Iran, ensuring realistic routing.
 
-Unified directed graph for multimodal routing
+This makes the engine operate on actual city infrastructure instead of synthetic graphs.
 
-Dynamic edge injection for taxi and bus layers
+🧠 Decision Graph (Multimodal Graph)
 
-🔹 Time-Dependent Routing
+A third directed graph D is built as the decision graph.
 
-Travel time varies based on departure hour
+Nodes include:
 
-Bus waiting time calculated using service intervals
+🚌 Bus stations
 
-Traffic factor applied during peak hours
+🚖 Taxi stations
 
-🔹 Cost-Aware Optimization
+Each node in the decision graph is mapped to:
 
-Combined time + monetary cost scoring
+The nearest node in G_walk
 
-Supports configurable weighting
+The nearest node in G_drive
 
-Extendable to multi-objective routing
+This mapping enables reconstruction of the exact real-world path after routing.
 
-🔹 Taxi Drop-Point Heuristic
+🔹 Edge Layers in the Decision Graph
 
-Generates intermediate drop nodes along driving path
+The decision graph contains three transportation layers:
 
-Connects to walkable graph within radius constraint
+🚶 Walking Layer
 
-Reduces unnecessary walking distance
+For every pair of nodes with distance < 1500 meters:
 
-🔹 Robust Input Handling
+A bidirectional edge is added
 
-Coordinate parsing with Persian/English support
+Mode = "walk"
 
-Geographic bounding validation
+Stored attributes:
 
-Graceful fallback routing mode
+Distance
 
-🏗 Architecture
-Client → Flask API → Routing Engine
-                          │
-                          ├── G_walk  (OSM pedestrian graph)
-                          ├── G_drive (OSM driving graph)
-                          └── D       (Multimodal directed graph)
-Engine Layers
+Travel time
 
-Walk Layer
+This creates dense pedestrian connectivity between nearby stations.
 
-Bus Layer (interval-based schedule modeling)
+🚌 Bus Layer
 
-Taxi Layer (dynamic route injection)
+For every pair of bus stations located on the same route:
 
-Custom Time-Aware Dijkstra
+A bidirectional edge is added
 
-⚙️ Tech Stack
+Mode = "bus"
+
+Stored attributes:
+
+Route distance
+
+Travel time
+
+Ticket cost
+
+Waiting time
+
+Service start time
+
+Waiting time is computed dynamically based on service interval.
+
+🚖 Taxi Layer
+
+Taxi routing is designed with a drop-point heuristic:
+
+Between each origin and destination station,
+
+5 intermediate nodes are generated along the driving path.
+
+These nodes allow flexible drop-off points.
+
+Each intermediate node connects to nearby nodes (< 300m) using walking edges.
+
+Stored attributes are similar to bus edges:
+
+Distance
+
+Travel time
+
+Cost
+
+Waiting/start information
+
+This allows the passenger to get off the taxi optimally before the final node.
+
+⚙️ Stage 2 — Routing Algorithm (Dynamic Layer)
+🎯 User Inputs
+
+The system receives three inputs:
+
+Origin
+
+Destination
+
+Departure Time
+
+🔄 Dynamic Graph Expansion
+
+At runtime:
+
+Origin and destination are added to the decision graph.
+
+They are connected via walking edges.
+
+Routing is executed using a custom Dijkstra algorithm.
+
+🧮 Custom Dijkstra Algorithm
+
+Two variations are used:
+
+1️⃣ Time-Cost Optimized Routing
+
+The main routing algorithm uses a customized Dijkstra implementation with a heap.
+
+Edge weights consider:
+
+Travel time
+
+Monetary cost
+
+Traffic factor
+
+Waiting time (for bus)
+
+Cost function:
+
+total_cost = travel_time_sec + dist/1000 * 15000
+
+This enables a combined time + economic optimization strategy.
+
+2️⃣ Distance-Based Routing
+
+A second Dijkstra variation computes shortest path purely based on distance.
+
+🕒 Time-Dependent Adjustments
+
+Traffic factor changes based on departure hour.
+
+Bus waiting time is computed using interval logic.
+
+Travel time dynamically affects total weight.
+
+This introduces real-world temporal behavior into routing.
+
+🗺 Real Path Reconstruction
+
+After the optimal path in the decision graph is found:
+
+Each node’s stored mapping is used.
+
+The exact route is reconstructed from:
+
+G_walk
+
+G_drive
+
+The full real street-level path is generated.
+
+🚘 Alternative Route — Ride-Hailing (Snap)
+
+The same routing pipeline is executed for a ride-hailing option.
+
+A cost function is applied:
+
+total_cost = travel_time_sec + dist/1000 * 15000
+
+This provides users with an alternative route suggestion.
+
+🌐 Stage 3 — Web Application Layer
+
+The system includes a Flask-based backend API.
+
+🔹 Features
+
+Coordinate validation (Persian & English support)
+
+Geographic bounding validation (Kerman area)
+
+Graceful fallback mode
+
+JSON route response
+
+Debug logging
+
+Real-time route computation
+
+🔹 API Flow
+
+Client → Flask API → Routing Engine → JSON Response
+
+Example Request
+{
+  "origin": "30.2839,57.0834",
+  "destination": "30.2941,57.0678",
+  "departure_time": "08:30"
+}
+Example Response
+
+Ordered multimodal path
+
+Total travel time
+
+Total estimated cost
+
+Segment breakdown
+
+🧠 Engineering Highlights
+
+Real OpenStreetMap street integration
+
+Multimodal graph modeling
+
+Layered decision graph architecture
+
+Time-dependent routing
+
+Custom Dijkstra implementation
+
+Taxi drop-point heuristic
+
+Cost-aware optimization
+
+Dynamic graph expansion
+
+Real-world path reconstruction
+
+🛠 Tech Stack
 
 Python
 
@@ -87,100 +261,28 @@ NetworkX
 
 OSMnx
 
-OpenStreetMap Data
+OpenStreetMap
 
-📊 Routing Strategy
+🚀 Why This Project Is Interesting
 
-The routing engine:
+This project demonstrates:
 
-Maps user coordinates to nearest graph nodes
+Graph modeling
 
-Expands multimodal graph dynamically
+Algorithm customization
 
-Applies time-dependent weight adjustments
+Multimodal routing design
 
-Executes custom Dijkstra algorithm
+Time-aware optimization
 
-Returns:
+System-level architectural thinking
 
-Ordered path
+Real urban data integration
 
-Estimated travel time
+It is not a simple API wrapper — it is a custom routing engine.
 
-Estimated cost
+📌 Resume-Ready Description
 
-Segment breakdown
-
-📈 Optimization Model
-
-Edge weight is computed as:
-
-effective_weight = base_time × traffic_factor + monetary_cost_weight
-
-Where:
-
-traffic_factor depends on departure hour
-
-Bus waiting time = interval − (arrival_time % interval)
-
-Taxi cost = base_fee + distance_rate × distance
-
-🧪 Testing
-
-Unit tests cover:
-
-Bus waiting time calculation
-
-Traffic factor adjustment
-
-Coordinate validation
-
-Dijkstra path correctness
-
-Run tests:
-
-pytest tests/
-🚀 How to Run
-pip install -r requirements.txt
-python app.py
-
-API endpoint:
-
-POST /route
-
-Example request:
-
-{
-  "origin": "30.2839,57.0834",
-  "destination": "30.2941,57.0678",
-  "departure_time": "08:30"
-}
-🎯 Engineering Highlights
-
-Designed stateful routing engine architecture
-
-Implemented time-dependent weight modeling
-
-Built multimodal graph from raw OSM data
-
-Created dynamic taxi-drop heuristic layer
-
-Developed fallback routing mechanism for robustness
-
-📌 Future Improvements
-
-True state-space time-dependent Dijkstra
-
-Multi-objective Pareto optimization
-
-Real timetable-based bus modeling
-
-Contraction Hierarchies for performance
-
-Production-ready deployment (Gunicorn + Nginx)
-
-💼 Resume Description (Short Version)
-
-Designed and implemented a multimodal time-dependent urban routing engine integrating pedestrian, bus, and taxi networks using NetworkX and custom Dijkstra variants. Implemented traffic-aware cost modeling and dynamic taxi drop-point heuristics for medium-sized city routing.
+Designed and implemented a multimodal time-dependent urban routing engine integrating pedestrian, bus, taxi, and ride-hailing networks using real OpenStreetMap data. Developed a custom Dijkstra-based cost-aware routing algorithm with traffic and waiting-time modeling. Built dynamic graph expansion and real path reconstruction using NetworkX and OSMnx.
 
 ![Screenshot 2026-02-17 181722](https://github.com/user-attachments/assets/c9fd9a95-a26d-4ee7-9f4d-94eff4f542d2)
